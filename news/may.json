@@ -1,5 +1,21 @@
 {
   "news": [
+        {
+  "id": 8,
+  "title": "Turistát mentettek ki a Ponta de São Lourenço-nál",
+  "date": "2025.05.27.",
+  "image": "images/News/lourenco1.jpg",
+  "excerpt": "Turistát mentettek ki a Ponta de São Lourenço-nál; a szél megakadályozta a helikopter bevetését...",
+  "content": [
+  "Egy turista ma reggel elesett, miközben a Ponta de São Lourenço ösvényén túrázott Caniçalban.",
+  "A mentéshez helikoptert riasztottak, azonban az erős szél miatt nem tudott beavatkozni.",
+  "Végül a Machico-i önkormányzati tűzoltók csapata mentette ki a körülbelül 60 éves férfit, aki nagyjából négy métert zuhant.",
+  "A tűzoltóknak több mint fél órát kellett gyalogolniuk, hogy elérjék a sérültet.",
+  "A férfit később kórházba szállították, ahol felső végtagi törés gyanújával vizsgálták."
+  ],
+  "author": "Iolanda Chaves  ",
+  "source": "https://www.jm-madeira.pt/ocorrencias/turista-resgatado-na-ponta-de-sao-lourenco-vento-impede-helicoptero-de-atuar-AL18207052"
+  },
     {
   "id": 7,
   "title": "NAPA: „Érezzük csodálatos szigetünk szeretetét”",
@@ -14,7 +30,7 @@
   ],
   "author": "Bruna Nóbrega ",
   "source": "https://www.jm-madeira.pt/cultura/napa-sentimos-muito-amor-da-nossa-ilha-maravilhosa-IL18132965"
-},    
+  },    
     {
   "id": 6,
   "title": "Forgalmi fennakadás Seixalban a szabálytalanul parkoló bérautók miatt",
