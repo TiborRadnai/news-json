@@ -1,5 +1,35 @@
 {
   "news": [
+      {
+  "id": 12,
+  "title": "Földrengést észleltek Câmara de Lobstól délre",
+  "date": "2025.05.29.",
+  "image": "images/News/earthquake1.jpg",
+  "excerpt": "Szinte teljesen befejeződött a szerdán a Boavista térségében, Água de Penában, Machico városában keletkezett tűz elleni küzdelem...",
+  "content": [
+  "A Portugál Tenger- és Légköri Intézet (IPMA) tegnap este egy 1,7-es magnitúdójú földrengést regisztrált Câmara de Lobostól délre.",
+  "A rengés 21:49-kor történt, és 14 kilométeres mélységben észlelték.",
+  "Az IPMA koordinátái szerint az epicentrum 32,277° északi szélesség és 16,998° nyugati hosszúság alatt helyezkedett el."
+  ],
+  "author": "Lígia Neves",
+  "source": "https://www.jm-madeira.pt/ocorrencias/sismo-registado-a-sul-de-camara-de-lobos-BJ18220177"
+  },
+  {
+  "id": 11,
+  "title": "Tűz az Água de Pena térségében – sikeres beavatkozás a lángok megfékezésére",
+  "date": "2025.05.28.",
+  "image": "images/News/fireInMachico.jpg",
+  "excerpt": "Szinte teljesen befejeződött a szerdán a Boavista térségében, Água de Penában, Machico városában keletkezett tűz elleni küzdelem...",
+  "content": [
+  "Szinte teljesen befejeződött a szerdán a Boavista térségében, Água de Penában, Machico városában keletkezett tűz elleni küzdelem, amelyben több tűzoltóalakulat vett részt a lángok megfékezése érdekében.",
+  "Machico tűzoltóságának parancsnoka, João Lima a JM-nek elmondta, hogy a tűz elleni védekezésben három tűzoltócsapat vett részt, valamint a Regionális Polgári Védelem helikoptere is bevetésre került.",
+  "A bozótos területen tomboló tűz kora délután lépett a felszámolás fázisába, miután három különböző fronton is gyors beavatkozás történt.",
+  "A helyszínen a Machico-i önkormányzati tűzoltók, a Santa Cruz-i hivatásos tűzoltók, valamint a Funchal-i hivatásos tűzoltók egy csapata és egy vízszállító jármű dolgozott, mellettük pedig a Polgári Védelem helikoptere is segítette a munkát.",
+  "A gyors eszközmozgósítás és a csapatok összehangolt munkája döntő szerepet játszott a lángok megfékezésében és azok továbbterjedésének megakadályozásában."  
+  ],
+  "author": "Paulo Graça",
+  "source": "https://www.jm-madeira.pt/ocorrencias/incendio-em-agua-de-pena-em-fase-de-resolucao-com-video-JK18215387"
+  },     
   {
   "id": 10,
   "title": "Egy fiatal és egy gyermek sérült meg egy motoros balesetben az Estrada da Eira do Serrado úton",
