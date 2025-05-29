@@ -1,6 +1,21 @@
 {
   "news": [
   {
+  "id": 10,
+  "title": "Egy fiatal és egy gyermek sérült meg egy motoros balesetben az Estrada da Eira do Serrado úton",
+  "date": "2025.05.28.",
+  "image": "images/News/wizz1.jpg",
+  "excerpt": "Egy 23 éves fiatal és egy 10 éves gyermek sérült meg tegnap este...",
+  "content": [
+  "Egy 23 éves fiatal és egy 10 éves gyermek sérült meg tegnap este, amikor motorkerékpárjaikkal összeütközek az Estrada da Eira do Serrado úton",
+  "A Funchal városi tűzoltókat 20:51-kor értesítették, hogy nyújtsanak segítséget a két sérült férfinak.",
+  "A JM híradása szerint a 23 éves fiatal bordafájdalmakra panaszkodott, valamint horzsolásokat szenvedett a lábán. A gyermek pedig az arcán és térdén sérült meg horzsolásokkal.",
+  "Mindkettejüket a Dr. Nélio Mendonça Kórház sürgősségi osztályára szállították."
+  ],
+  "author": "Lígia Neves",
+  "source": "https://www.jm-madeira.pt/ocorrencias/jovem-e-crianca-feridos-em-colisao-entre-duas-motas-na-estrada-da-eira-do-serrado-PK18211284"
+  },     
+  {
   "id": 9,
   "title": "Rázós leszállás a madeirai repülőtéren",
   "date": "2025.05.27.",
@@ -11,7 +26,6 @@
   "A manőver műszaki problémát okozott a gépen, amelynek vizsgálatát el kellett végezni, mielőtt folytathatta volna a útját – számolt be róla a SIC Notícias.",
   "A gépen utazó utasok a Madeira Runway Spotting csatornán, amely közel 50 ezer megtekintést gyűjtött össze, úgy kommentálták az esetet, hogy „kissé ijesztő” élményben volt részük.",
   "Bár a madeirai kifutópálya híres a pilóták számára jelentett kihívásokról, különösen erős szél esetén, ugyanezen a napon négy másik, ugyanahhoz a légitársasághoz tartozó gép is gond nélkül landolt a Cristiano Ronaldo repülőtéren.",
-  "A férfit később kórházba szállították, ahol felső végtagi törés gyanújával vizsgálták."
   ],
   "author": "Catarina Gouveia",
   "source": "https://www.jm-madeira.pt/ocorrencias/aterragem-atribulada-no-aeroporto-da-madeira-assustou-passageiros-com-video-GL18205751"
