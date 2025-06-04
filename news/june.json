@@ -1,0 +1,17 @@
+{
+  "news": [
+                  {
+  "id": 15,
+  "title": "Közlekedési balesetek száma jelentősen emelkedett Madeirán",
+  "date": "2025.06.03.",
+  "image": "images/News/accidents1.jpg",
+  "excerpt": "A Madeira Regionális Statisztikai Igazgatóság (DREM) által közzétett adatok szerint az év első három hónapjában 922 közlekedési baleset történt...",
+  "content": [
+  "A Madeira Regionális Statisztikai Igazgatóság (DREM) által közzétett adatok szerint az év első három hónapjában 922 közlekedési baleset történt, amelyekben a Polícia de Segurança Pública (PSP) is beavatkozott. Ez 9,8%-os növekedést jelent az előző év azonos időszakához képest.",
+  "A balesetek következtében 294 ember sérült meg, ami 46 fővel több, mint 2024 első negyedévében. A sérültek közül 274 könnyebb sérüléseket szenvedett, 17 súlyos sérült volt, és 3 ember életét vesztette.",
+  "A jelentés szerint a közlekedési balesetek számának növekedése összefüggésben állhat a forgalom intenzitásának emelkedésével, valamint az időjárási körülményekkel. A hatóságok továbbra is vizsgálják a balesetek okait, és fokozott figyelmet fordítanak a közlekedésbiztonsági intézkedésekre."
+  ],
+  "author": "JM",
+  "source": "https://www.jm-madeira.pt/ocorrencias/922-acidentes-de-viacao-com-intervencao-policial-nos-primeiros-tres-meses-do-ano-HN18262489"
+  },
+}   
