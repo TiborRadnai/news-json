@@ -1,5 +1,49 @@
 {
   "news": [
+                  {
+  "id": 15,
+  "title": "Közlekedési balesetek száma jelentősen emelkedett Madeirán",
+  "date": "2025.06.03.",
+  "image": "images/News/accidents1.jpg",
+  "excerpt": "A Madeira Regionális Statisztikai Igazgatóság (DREM) által közzétett adatok szerint az év első három hónapjában 922 közlekedési baleset történt...",
+  "content": [
+  "A Madeira Regionális Statisztikai Igazgatóság (DREM) által közzétett adatok szerint az év első három hónapjában 922 közlekedési baleset történt, amelyekben a Polícia de Segurança Pública (PSP) is beavatkozott. Ez 9,8%-os növekedést jelent az előző év azonos időszakához képest.",
+  "A balesetek következtében 294 ember sérült meg, ami 46 fővel több, mint 2024 első negyedévében. A sérültek közül 274 könnyebb sérüléseket szenvedett, 17 súlyos sérült volt, és 3 ember életét vesztette.",
+  "A jelentés szerint a közlekedési balesetek számának növekedése összefüggésben állhat a forgalom intenzitásának emelkedésével, valamint az időjárási körülményekkel. A hatóságok továbbra is vizsgálják a balesetek okait, és fokozott figyelmet fordítanak a közlekedésbiztonsági intézkedésekre."
+  ],
+  "author": "JM",
+  "source": "https://www.jm-madeira.pt/ocorrencias/922-acidentes-de-viacao-com-intervencao-policial-nos-primeiros-tres-meses-do-ano-HN18262489"
+  },
+              {
+  "id": 14,
+  "title": "Súlyos baleset történt a Via Rápidán",
+  "date": "2025.05.31.",
+  "image": "images/News/accidentViaRapida1.jpg",
+  "excerpt": "Ma délután súlyos közlekedési baleset történt a Via Rápidán, amelyben két teherautó és két személygépkocsi ütközött össze...",
+  "content": [
+  "Ma délután súlyos közlekedési baleset történt a Via Rápidán, amelyben két teherautó és két személygépkocsi ütközött össze. Az ütközés következtében legalább öt ember megsérült, közülük néhányan súlyosan.",
+  "A helyszínre 29 operatív szakember és 10 mentőjármű érkezett, köztük mentőautók, műszaki mentőegységek és az EMIR sürgősségi orvosi csapata. A mentési műveletet a Funchali Önkéntes Tűzoltók, a Funchali Hivatásos Tűzoltók és a Portugál Vöröskereszt végezték.",
+  "A baleset következtében a Via Rápida érintett szakaszát lezárták, ami jelentős fennakadást okozott a forgalomban. A hatóságok jelenleg is dolgoznak a járművek eltávolításán és a terület megtisztításán, hogy mielőbb helyreálljon a közlekedés.",
+  "A rendőrség vizsgálja az eset körülményeit, hogy kiderítse, mi vezetett az ütközéshez. Az első jelentések szerint a baleset a Viveiros és Santo António közötti szakaszon történt, és a mentési munkálatok még mindig zajlanak."  
+  ],
+  "author": "Agência Lusa",
+  "source": "https://www.jm-madeira.pt/ocorrencias/29-operacionais-e-10-veiculos-de-socorro-no-acidente-na-via-rapida-EP18240217"
+  },
+          {
+  "id": 13,
+  "title": "Súlyos baleset Ponta do Pargo közelében",
+  "date": "2025.05.30.",
+  "image": "images/News/accidentPontaDoPargo1.jpg",
+  "excerpt": "Múlt hét végén súlyos közlekedési baleset történt a Pedregal térségében, Ponta do Pargo közelében...",
+  "content": [
+  "Múlt hét végén súlyos közlekedési baleset történt a Pedregal térségében, Ponta do Pargo közelében. Egy terepjáró lesodródott az útról és felborult, aminek következtében két ember súlyosan, öt pedig könnyebben megsérült.",
+  "A mentési műveletet a helyi tűzoltóság és mentőegységek végezték, összesen 46 operatív szakember vett részt az akcióban, amelyben 14 jármű és egy helikopter is bevetésre került. Az első riasztás 12:50-kor érkezett, és kezdetben csak két sérültről szólt, azonban később kiderült, hogy a balesetben összesen hét ember érintett.",
+  "A két súlyos sérültet az EMIR orvosi csapata stabilizálta a helyszínen, majd helikopterrel szállították kórházba. A többi sérültet a mentőegységek látták el, és állapotuknak megfelelően különböző egészségügyi intézményekbe szállították.",
+  "A baleset helyszíne nehezen megközelíthető területen volt, ami tovább nehezítette a mentési munkálatokat. A hatóságok vizsgálják az eset körülményeit, hogy kiderüljön, mi okozta a jármű lesodródását és felborulását."  
+  ],
+  "author": "Paulo Graça",
+  "source": "https://www.jm-madeira.pt/ocorrencias/despiste-de-jipe-na-ponta-do-pargo-faz-sete-vitimas-KI18233595"
+  },
       {
   "id": 12,
   "title": "Földrengést észleltek Câmara de Lobstól délre",
