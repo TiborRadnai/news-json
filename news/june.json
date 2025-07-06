@@ -1,6 +1,37 @@
 {
   "news": [
 {
+  "id": 29,
+  "title": "Német turistát mentettek ki a Cais do Sardinha közelében",
+  "date": "2025.06.30.",
+  "image": "images/News/coastRescue.jpg",
+  "excerpt": "Egy német állampolgárságú nő szorult mentésre június 30-án a Cais do Sardinha térségében, miután megsérült egy túra során. A mentést a SANAS Madeira egysége hajtotta végre.",
+  "content": [
+    "Egy körülbelül 60 éves német turista szenvedett balesetet a Ponta de São Lourenço túraútvonalon, amelynek következtében megsérült a jobb lába.",
+    "A mentőcsapat hajóval érkezett a Cais do Sardinha közelébe, ahol ellátták a sérült nőt, majd biztonságosan elszállították a partra.",
+    "A sérültet a tűzoltók látták el a helyszínen, majd a Dreams Madeira Resort kikötőjébe szállították, ahonnan mentőautóval vitték tovább orvosi ellátásra.",
+    "A mentési műveletet a SANAS Madeira irányította, együttműködésben a Regionális Polgári Védelem Szolgálatával és a Funchali Tengeri Mentési Központtal.",
+    "A beavatkozás gyors és összehangolt volt, és lehetővé tette, hogy a turista időben megkapja a szükséges ellátást.",
+    "A hír a madeirai sajtóban jelent meg."
+  ]
+},
+{
+  "id": 28,
+  "title": "Turista sérült meg kerékpáros balesetben a Via Expresso alagútjában",
+  "date": "2025.06.30.",
+  "image": "images/News/bycicleAccident2.jpg",
+  "excerpt": "Június 30-án egy 33 éves turista szenvedett balesetet a Via Expresso egyik alagútjában, miközben kerékpárral közlekedett. A férfi könnyebb sérülésekkel került kórházba...",
+  "content": [
+    "Hétfőn délután egy 33 éves külföldi kerékpáros szenvedett balesetet a Via Expresso Pinheiro alagútjában, Santana térségében.",
+    "A férfi elvesztette uralmát a bicikli felett, és elesett az alagútban. A baleset körülményei egyelőre nem tisztázottak.",
+    "A helyszínre két egység érkezett a Santana Önkéntes Tűzoltóságtól, akik elsősegélyben részesítették a sérültet, majd stabil állapotban kórházba szállították.",
+    "A férfi felső végtagjain szenvedett könnyebb sérüléseket, és a Dr. Nélio Mendonça kórház sürgősségi osztályán látták el.",
+    "A mentés ideje alatt a Via Expresso műszaki csapata és a rendőrség is jelen volt, hogy biztosítsák a forgalmat és dokumentálják az esetet.",
+    "Az eset ismételten felhívja a figyelmet a kerékpáros közlekedés biztonságára, különösen alagutakban és nagy forgalmú útszakaszokon.",
+    "A cikk alapjául szolgáló hír a madeirai sajtóban jelent meg."
+  ]
+},
+{
   "id": 27,
   "title": "Tömegek lepték el Ribeira Bravát Nininho Vaz Maia koncertjén",
   "date": "2025.06.29.",
