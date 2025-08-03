@@ -1,6 +1,62 @@
 {
   "news": [
 {
+  "id": 40,
+  "title": "Figyelmeztetést adott ki a repülőtér a kedvezőtlen időjárás miatt",
+  "date": "2025.07.31.",
+  "image": "images/News/madeiraAirportAlert.JPG",
+  "excerpt": "A repülőtér figyelmeztetést adott ki a várhatóan szeles időjárás miatt, amely befolyásolhatja a légi közlekedést. Az utasokat arra kérik, hogy indulás előtt ellenőrizzék járataik státuszát.",
+  "content": [
+    "A repülőtér figyelmeztetést adott ki a várhatóan kedvezőtlen időjárási körülmények miatt, amelyek hatással lehetnek a légi közlekedésre.",
+    "A meteorológiai előrejelzések szerint erős szél várható, különösen a sziget keleti és nyugati részein, valamint Porto Santo térségében.",
+    "A szél sebessége elérheti a 70 km/h-t, ami késéseket vagy járattörléseket okozhat.",
+    "A repülőtér arra kéri az utasokat, hogy indulás előtt ellenőrizzék járataik aktuális státuszát.",
+    "A hír a madeirai sajtóban jelent meg."
+  ]
+},
+{
+  "id": 39,
+  "title": "Eltűnt turistát találtak meg sértetlenül Curral das Freiras térségében",
+  "date": "2025.07.28.",
+  "image": "images/News/curralDasFreirasMissing.JPG",
+  "excerpt": "Egy belga turistát kerestek Curral das Freiras térségében, miután eltűnt egy túraútvonalon. A férfit végül épségben megtalálták, orvosi ellátásra nem volt szükség.",
+  "content": [
+    "Egy belga turistát kerestek Curral das Freiras térségében, miután eltűnt egy túra során.",
+    "A férfit a délutáni órákban kezdték keresni, a mentésben öt tűzoltó és két jármű vett részt a Câmara de Lobos-i önkéntes egységtől.",
+    "A 46 éves férfit este találták meg, nem szenvedett sérülést, és nem volt szükség orvosi ellátásra.",
+    "A keresésben a helyi erdészet munkatársai is részt vettek.",
+    "A hír a madeirai sajtóban jelent meg."
+  ]
+},
+{
+  "id": 38,
+  "title": "Látogató rekedt a levegőben Ribeira da Janela térségében",
+  "date": "2025.07.25.",
+  "image": "images/News/ziplineSuspended.JPG",
+  "excerpt": "Egy látogató megállt a zipline pálya közepén Ribeira da Janela térségében, és a levegőben rekedt. A helyszíni személyzet biztonságosan kimentette, az eset során nem történt sérülés.",
+  "content": [
+    "Egy látogató megállt a zipline pálya közepén Ribeira da Janela és Fajã de Barro között, és a levegőben rekedt.",
+    "A helyszíni személyzet egyik tagja elérte a pálya közepén veszteglő személyt, és biztonságosan visszavezette a kiinduló pontra.",
+    "A mentés gyorsan és szakszerűen zajlott, az eset során nem történt sérülés.",
+    "A zipline-pálya népszerű kalandprogram, az üzemeltetők szerint az ilyen esetek ritkák, de a személyzet minden helyzetre felkészült.",
+    "A hír a madeirai sajtóban jelent meg."
+  ]
+},
+{
+  "id": 37,
+  "title": "Turista sérült meg a Ponta do Rosto kilátónál",
+  "date": "2025.07.25.",
+  "image": "images/News/pontaDoRostoRescue.JPG",
+  "excerpt": "Egy ír turista megsérült a Ponta do Rosto kilátónál, miután elesett egy nehezen járható szakaszon. A mentők a helyszínen ellátták, majd kórházba szállították.",
+  "content": [
+    "Egy ír turista megsérült a Ponta do Rosto kilátónál, miután elesett egy sziklás, nehezen járható szakaszon.",
+    "A nő a lábán szenvedett sérülést, a mentők a helyszínen ellátták, majd egészségügyi intézménybe szállították.",
+    "A kilátó környéke népszerű kirándulóhely, de a terep egyes részei veszélyesek lehetnek, különösen szeles időben.",
+    "A hatóságok arra kérik a látogatókat, hogy fokozott óvatossággal közlekedjenek a túraútvonalakon.",
+    "A hír a madeirai sajtóban jelent meg."
+  ]
+},
+{
   "id": 36,
   "title": "Holttestet találtak Canhas térségében – a rendőrség kizárta a bűncselekményt",
   "date": "2025.07.05.",
