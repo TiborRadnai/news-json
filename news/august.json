@@ -1,6 +1,35 @@
 {
   "news": [
 {
+  "id": 44,
+  "title": "Sanas egység mentett ki egy fürdőzőt Porto Monizban",
+  "date": "2025.08.03.",
+  "image": "images/News/coastRescue.webp",
+  "excerpt": "Egy 26 éves spanyol férfit mentett ki a Sanas egysége Porto Monizban, miután a vízbe esett a Piscinas do Aquário környékén. A mentés során több szervezet működött együtt.",
+  "content": [
+    "Augusztus 3-án egy 26 éves spanyol állampolgárságú férfi esett a vízbe Porto Monizban, a Piscinas do Aquário környékén.",
+    "A Sanas mentőhajója gyorsan a helyszínre érkezett, és kimentette a fürdőzőt, majd a kikötőbe szállította, ahol már mentőautó várta.",
+    "A férfinál felső végtagi traumára utaló jeleket észleltek, ezért további orvosi ellátásra szorult.",
+    "A mentési műveletet a SANAS Madeira Műveleti és Irányító Központja koordinálta, együttműködésben a Regionális Polgári Védelemmel (IP-RAM) és a MRSC Funchal tengeri mentési központtal.",
+    "A gyors beavatkozásnak köszönhetően a fürdőző biztonságban jutott el az egészségügyi intézménybe."
+  ]
+},
+{
+  "id": 43,
+  "title": "Tűz ütött ki Prazeres térségében",
+  "date": "2025.08.03.",
+  "image": "images/News/firePrazeres.webp",
+  "excerpt": "Vasárnap este tűz ütött ki Prazeres térségében, amelyhez helikopteres egységet is bevetettek. A lángokat kevesebb mint fél óra alatt sikerült megfékezni.",
+  "content": [
+    "Augusztus 3-án, vasárnap este tűz ütött ki Prazeres térségében, egy erdős területen.",
+    "A tüzet 18:48-kor észlelte a rendőrség járőrcsapata, majd azonnal értesítették a regionális katasztrófavédelmi központot.",
+    "A helyszínre 22 tűzoltót és 4 járművet vezényeltek ki, Calheta, Ribeira Brava, Ponta do Sol, valamint São Vicente és Porto Moniz tűzoltóságainak egységeiből.",
+    "A bevetés során helikopteres egységet is alkalmaztak, amely helitranszportált csapatot juttatott a helyszínre.",
+    "A tűz megfékezése 19:07-re megtörtént, személyi sérülésről nem érkezett jelentés.",
+    "A műveletben a Polícia Florestal is részt vett."
+  ]
+},
+{
   "id": 42,
   "title": "Felhős idő északon és Porto Santón",
   "date": "2025.08.03.",
