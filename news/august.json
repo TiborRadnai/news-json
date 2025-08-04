@@ -1,6 +1,23 @@
 {
   "news": [
 {
+  "id": 45,
+  "title": "Kihívást jelentő túrát szervez a Madeira-i Kemping Klub",
+  "date": "2025.08.04.",
+  "image": "images/News/madeiraHikeAug9.webp",
+  "excerpt": "Augusztus 9-én, szombaton a Clube de Campismo da Madeira egy 12 km-es, ötórás, nehéz gyalogtúrát szervez a Boca da Corrida kilátótól egészen a Curral das Freiras templomáig.",
+  "content": [
+    "A túra a Boca da Corrida kilátónál kezdődik, Jardim da Serra településen, és olyan helyeken halad át, mint a Caminho Real da Encumeada, Boca dos Corgos, Relvinha, Pico Grande csúcsa, Fajã Escura, végül a Curral das Freiras templománál ér véget.",
+    "A túra hossza körülbelül 12 km, időtartama 5 óra, és nehézségi foka magas, így jó fizikai állapot ajánlott.",
+    "A jelentkezési határidő augusztus 8., péntek, 12:00. Jelentkezni lehet a clubecampismomadeira@gmail.com címen vagy a +351 969 591 687-es WhatsApp számon.",
+    "Az ár tartalmazza a Funchalból induló oda-vissza szállítást, valamint a balesetbiztosítást.",
+    "Fontos: ha valaki nem mondja le időben (előző nap 16:00-ig), akkor a szállítás és biztosítás díját ki kell fizetnie.",
+    "Ajánlott felszerelés: túrabakancs, időjárásnak megfelelő ruházat, esőkabát, sapka vagy kalap, túrabot, hátizsák élelemmel (szendvics, víz, gyümölcs, csokoládé, stb.), kulacs, valamint szemeteszsák a saját hulladékhoz."
+  ],
+  "source": "JM Madeira",
+  "url": "https://www.jm-madeira.pt/regiao/clube-de-campismo-da-madeira-promove-caminhada-no-proximo-sabado-LO18617804"
+},
+{
   "id": 44,
   "title": "Sanas egység mentett ki egy fürdőzőt Porto Monizban",
   "date": "2025.08.03.",
