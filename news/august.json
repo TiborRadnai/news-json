@@ -1,6 +1,21 @@
 {
   "news": [
 {
+  "id": 46,
+  "title": "Felhős kedd reggel Madeirán, délutánra javulás várható",
+  "date": "2025.08.05.",
+  "image": "images/News/madeiraCloudyMorning.webp",
+  "excerpt": "Augusztus 5-én, kedden reggel Madeira és Porto Santo északi részein felhős idő várható, de délutánra csökken a felhőzet. A szél gyenge vagy mérsékelt, a hőmérséklet enyhén emelkedik.",
+  "content": [
+    "A Portugál Tenger- és Légköri Intézet (IPMA) előrejelzése szerint kedden reggel Madeira és Porto Santo északi részein felhős időre lehet számítani, míg a déli oldalon kevesebb felhő lesz.",
+    "A nap folyamán fokozatosan csökken a felhőzet, különösen délutánra, amikor már több napsütés is várható.",
+    "A szél északkeleti irányból fúj, gyenge vagy mérsékelt erősséggel (10–25 km/h).",
+    "A hőmérséklet enyhén emelkedik a magasabban fekvő területeken, a tenger vízhőmérséklete 23–24°C között alakul.",
+    "A tengeri hullámzás az északi partoknál 1–1,5 méteres, míg délen kevesebb mint 1 méteres hullámokra lehet számítani.",
+    "Az előrejelzés alapján érdemes rétegesen öltözködni, különösen a reggeli órákban, és figyelni a tenger állapotát, ha vízparti programot tervezünk."
+  ]
+},
+{
   "id": 45,
   "title": "Kihívást jelentő túrát szervez a Madeira-i Kemping Klub",
   "date": "2025.08.04.",
@@ -13,9 +28,7 @@
     "Az ár tartalmazza a Funchalból induló oda-vissza szállítást, valamint a balesetbiztosítást.",
     "Fontos: ha valaki nem mondja le időben (előző nap 16:00-ig), akkor a szállítás és biztosítás díját ki kell fizetnie.",
     "Ajánlott felszerelés: túrabakancs, időjárásnak megfelelő ruházat, esőkabát, sapka vagy kalap, túrabot, hátizsák élelemmel (szendvics, víz, gyümölcs, csokoládé, stb.), kulacs, valamint szemeteszsák a saját hulladékhoz."
-  ],
-  "source": "JM Madeira",
-  "url": "https://www.jm-madeira.pt/regiao/clube-de-campismo-da-madeira-promove-caminhada-no-proximo-sabado-LO18617804"
+  ]
 },
 {
   "id": 44,
