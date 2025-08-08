@@ -1,6 +1,36 @@
 {
   "news": [
 {
+  "id": 48,
+  "title": "Három luxemburgi turista megsérült egy éjszakai verekedésben Funchalban",
+  "date": "2025.08.08.",
+  "image": "images/News/ruaDasFontesFight.webp",
+  "excerpt": "Augusztus 8-án hajnalban három fiatal turistát szállítottak kórházba, miután verekedés tört ki Funchal belvárosában, a Rua das Fontes környékén. A sérültek Luxemburgból érkeztek, és a helyszínen a mentők látták el őket.",
+  "content": [
+    "A verekedés péntek hajnalban, körülbelül 03:00-kor történt a Rua das Fontes nevű utcában, amely éjszakánként népszerű találkozóhely a fiatalok körében.",
+    "A három érintett férfi – 20, 25 és 26 évesek – láthatóan ittas állapotban volt, amikor egy másik, már a rendőrség által ismert csoport megtámadta őket, eddig tisztázatlan indítékból.",
+    "A helyszínre a Portugál Vöröskereszt két mentőautóval és nyolc segítővel érkezett, akik elsősegélyben részesítették a sérülteket.",
+    "A rendőrség gyorsan közbelépett, és véget vetett az agressziónak. A három turistát ezután a Dr. Nélio Mendonça Kórházba szállították.",
+    "Az egyik férfi súlyos orrsérülést szenvedett, a másik arci zúzódásokat és vágásokat, míg a harmadik enyhébb sérülésekkel megúszta az incidenst.",
+    "A rendőrség vizsgálatot indított az ügyben, hogy feltárja a verekedés pontos okait és körülményeit."
+  ]
+},
+{
+  "id": 47,
+  "title": "Halott halászt emeltek ki a tengerből Câmara de Lobos közelében",
+  "date": "2025.08.08.",
+  "image": "images/News/falcaoDoMarTragedy.webp",
+  "excerpt": "Péntek hajnalban egy 50 éves portugál halász holttestét emelték ki a tengerből, mintegy 500 méterre Câmara de Lobos partjaitól. A férfi a 'Falcão do Mar' nevű halászhajó fedélzetéről esett a vízbe.",
+  "content": [
+    "Augusztus 8-án, pénteken hajnalban az illetékes hatóságokat 05:00 körül riasztották, miután egy testet észleltek a vízben, Câmara de Lobos déli részén.",
+    "A Funchal-i Mentőállomás egyik hajóját azonnal a helyszínre küldték, ahol megtalálták az 50 éves portugál férfi holttestét, aki a 'Falcão do Mar' nevű halászhajó legénységének egyik tagja volt.",
+    "A hajó a tengerben horgonyzott, körülbelül 500 méterre a parttól, amikor a férfi – eddig tisztázatlan körülmények között – a vízbe esett.",
+    "A testet a mentőcsapat kiemelte, majd Funchal kikötőjébe, a Cais 8-ra szállították, ahol a delegált egészségügyi szakember megállapította a halál beálltát.",
+    "A helyszínre három mentő és két tengerészeti rendőr érkezett, valamint a rendőrségi nyomozók is megkezdték az eset kivizsgálását.",
+    "A hatóságok feltételezése szerint a férfi halálát hirtelen egészségügyi probléma okozhatta, de a pontos okot a vizsgálat hivatott tisztázni."
+  ]
+},
+{
   "id": 46,
   "title": "Felhős kedd reggel Madeirán, délutánra javulás várható",
   "date": "2025.08.05.",
