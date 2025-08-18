@@ -1,6 +1,21 @@
 {
   "news": [
 {
+  "id": 49,
+  "title": "Bozóttűz ütött ki Campanárioban – 17 tűzoltó vonult a helyszínre",
+  "date": "2025.08.18.",
+  "image": "images/News/fireTruck.webp",
+  "excerpt": "Augusztus 18-án hajnalban tűz ütött ki a Campanário településhez tartozó Terreiros térségében. A nehezen megközelíthető területen 17 tűzoltó és hat jármű vett részt az oltásban, a lángokat reggel 6:10-re sikerült megfékezni.",
+  "content": [
+    "Campanário településen, a Terreiros nevű térségben augusztus 18-án, hajnali 4:50 körül bozóttűz keletkezett.",
+    "A riasztást követően a regionális mentési műveleti központ koordinálásával négy tűzoltóegység – Ribeira Brava és Ponta do Sol, Câmara de Lobos, valamint a funchali hivatásos tűzoltók – vonultak a helyszínre.",
+    "Összesen 17 tűzoltó és hat jármű vett részt az oltásban, amelyet a nehéz terepviszonyok miatt gyalogosan, kézi szerszámokkal kellett végrehajtani.",
+    "A Madeira-i Polgári Védelem tájékoztatása szerint a tűzoltók gyors és hatékony beavatkozása révén sikerült megakadályozni a tűz továbbterjedését.",
+    "A lángokat reggel 6:10-re sikerült teljesen megfékezni, a terület biztosítása és az utómunkálatok ezt követően is folytatódtak.",
+    "A helyszínen jelen volt a közrend fenntartásáért felelős PSP és az erdővédelmi hatóság is, akik segítették a művelet koordinálását."
+  ]
+},
+{
   "id": 48,
   "title": "Három luxemburgi turista megsérült egy éjszakai verekedésben Funchalban",
   "date": "2025.08.08.",
