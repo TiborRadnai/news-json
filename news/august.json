@@ -1,6 +1,36 @@
 {
   "news": [
 {
+  "id": 51,
+  "title": "Letartóztatták a Ponta do Pargo-i tűzeset feltételezett elkövetőjét",
+  "date": "2025.08.20.",
+  "image": "images/News/policeArrest.webp",
+  "excerpt": "Ponta do Pargo településen augusztus 19-én délután keletkezett bozóttűz ügyében a hatóságok őrizetbe vettek egy férfit, akit a tűz szándékos okozásával gyanúsítanak.",
+  "content": [
+    "A Pedregal térségében történt tűzeset után a Madeira-i Rendőrség (PSP) és az Erdészeti Rendőrség közös műveletben őrizetbe vett egy férfit, akit az augusztus 19-i tűz szándékos okozásával gyanúsítanak.",
+    "A tűzeset során három tűzoltóegység és a Regionális Polgári Védelem helikoptere is bevetésre került, hogy megfékezzék a gyorsan terjedő lángokat.",
+    "A hatóságok a helyszíni vizsgálatok és tanúvallomások alapján jutottak el a gyanúsítotthoz, akinek szerepét most büntetőeljárás keretében vizsgálják.",
+    "A Madeira-i Polgári Védelem kiemelte, hogy az ilyen esetek nemcsak a természeti környezetet, hanem az emberi életeket és lakóingatlanokat is veszélyeztetik.",
+    "A hatóságok fokozott figyelmet kérnek a lakosságtól, és hangsúlyozzák, hogy minden gyanús tevékenységet azonnal jelenteni kell.",
+    "A nyári időszakban különösen nagy a tűzveszély, ezért a megelőzés és a gyors reagálás kulcsfontosságú a hasonló esetek elkerülésében."
+  ]
+},
+{
+  "id": 50,
+  "title": "Helikopter és három tűzoltóegység küzdött a lángokkal Ponta do Pargo térségében",
+  "date": "2025.08.19.",
+  "image": "images/News/firefightingHelicopter.webp",
+  "excerpt": "Augusztus 19-én délután tűz ütött ki Madeira nyugati részén, a Ponta do Pargo település Pedregal nevű térségében. A bozóttűz megfékezésére három tűzoltóegység és a Regionális Polgári Védelem helikoptere is bevetésre került.",
+  "content": [
+    "A tűz a délutáni órákban keletkezett a Pedregal térségében, ahol a lángok gyorsan terjedtek a sűrű növényzetben. A Madeira-i Regionális Polgári Védelem azonnal riasztotta a helyi egységeket.",
+    "A beavatkozásban részt vettek a Calheta-i Önkéntes Tűzoltók, a Ribeira Brava és Ponta do Sol Önkéntes Tűzoltói, valamint a Funchal-i Hivatásos Tűzoltók egységei.",
+    "A nehéz terepviszonyok és a tűz kiterjedése miatt a helikopteres támogatás is szükségessé vált, amely vízzel oltotta a lángokat a levegőből.",
+    "A hatóságok kiemelték, hogy a gyors reagálásnak köszönhetően sikerült megakadályozni a tűz továbbterjedését lakott területek felé.",
+    "A tűz okát egyelőre vizsgálják, de a nyári időszakban gyakori szárazság és a bozótos területek fokozott kockázatot jelentenek.",
+    "A lakosságot arra kérik, hogy fokozott figyelemmel járjanak el szabadtéri tevékenységeik során, különösen tűzgyújtás esetén."
+  ]
+},
+{
   "id": 49,
   "title": "Bozóttűz ütött ki Campanárioban – 17 tűzoltó vonult a helyszínre",
   "date": "2025.08.18.",
