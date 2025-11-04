@@ -1,0 +1,48 @@
+{
+  "news": [
+{
+  "id": 62,
+  "title": "Svájci turista halt meg a vízben a Praia do Areeiro partszakaszon",
+  "date": "2025.11.03.",
+  "image": "images/News/areeiroBeachFatality.webp",
+  "excerpt": "Egy 74 éves svájci férfi életét vesztette a Praia do Areeiro partszakaszon, miután nehézségekbe ütközött a vízben és szívmegállást szenvedett. A mentés gyors volt, de sajnos eredménytelen.",
+  "content": [
+    "November 3-án, 14:40-kor érkezett a riasztás a Madeira Regionális Polgári Védelem szolgálatához, miszerint egy személy bajba került a vízben a Praia do Areeiro partszakaszon, Funchal térségében.",
+    "A 74 éves svájci férfit a vízből már a helyszínen tartózkodó civilek húzták ki, akik azonnal megkezdték az újraélesztést. A mentőegységek – köztük a Funchal-i Tengeri Rendőrség, a Cruz Vermelha Portuguesa és az EMIR (Gyors Reagálású Orvosi Egység) – perceken belül a helyszínre érkeztek.",
+    "A mentési kísérletek ellenére a férfi életét nem sikerült megmenteni. Az EMIR orvosa a helyszínen megállapította a halál beálltát, és az ügyet a Madeira-i Ügyészség vette át.",
+    "A holttestet a törvényszéki orvosi szolgálat szállította el, hogy megállapítsák a pontos halálokot, bár az elsődleges információk szerint a férfi szívmegállást szenvedett, miután nehézségekbe ütközött a vízben.",
+    "A Praia do Areeiro a Praia Formosa partszakasz része, amely népszerű a turisták körében, de a tenger itt gyakran kiszámíthatatlan, különösen az őszi időszakban.",
+    "A hatóságok ismételten arra kérik a lakosságot és a látogatókat, hogy fokozott óvatossággal közelítsék meg a tengerparti területeket, és mindig vegyék figyelembe az időjárási és tengeri körülményeket."
+  ]
+},
+{
+  "id": 61,
+  "title": "Szabálytalanul parkoló járművek okoztak közlekedési káoszt a Ponta do Pargo alagútban",
+  "date": "2025.11.02.",
+  "image": "images/News/pontaDoPargoTunnel.webp",
+  "excerpt": "Több jármű szabálytalanul parkolt a Ponta do Pargo világítótoronyhoz vezető alagútban, ami komoly fennakadásokat okozott a forgalomban. A helyszínen csak váltakozó irányú haladás volt lehetséges.",
+  "content": [
+    "November 1-jén, a késő délutáni órákban több jármű szabálytalanul parkolt a Ponta do Pargo világítótoronyhoz vezető alagútban, a Calheta településhez tartozó térségben. Az eset komoly fennakadásokat okozott a közlekedésben.",
+    "A helyszínen tartózkodó autósok beszámolói szerint az alagútban történő parkolás miatt a forgalom lelassult, és több szakaszon csak váltakozó irányban lehetett közlekedni. Ez különösen veszélyes volt, mivel az alagút szűk és korlátozott látási viszonyokat biztosít.",
+    "A rendőrséghez több bejelentés is érkezett, és a hatóságok vizsgálják, hogy történt-e szabálysértés vagy közlekedésbiztonsági kockázat. A helyi lakosok és turisták egyaránt aggodalmukat fejezték ki a közlekedési rend megsértése miatt.",
+    "A Ponta do Pargo világítótorony népszerű kirándulóhely, különösen hétvégén és ünnepnapokon, amikor megnövekszik a látogatók száma. Az alagút közvetlenül a kilátóhoz vezet, így a szabálytalan parkolás nemcsak a forgalmat, hanem a mentési útvonalakat is akadályozhatja.",
+    "A hatóságok arra kérik a járművezetőket, hogy tartsák be a közlekedési szabályokat, különösen olyan szűk és veszélyes szakaszokon, mint az alagút. A jövőben fokozott ellenőrzésekre lehet számítani a térségben."
+  ]
+},
+{
+  "id": 60,
+  "title": "Ír turista halt meg, miközben megpróbálta kimenteni lányát a tengerből Porto da Cruznál",
+  "date": "2025.11.01.",
+  "image": "images/News/coastRescue2.webp",
+  "excerpt": "Egy 44 éves ír férfi életét vesztette a Porto da Cruz-i Maiata strandon, miközben megpróbálta kimenteni 14 éves lányát a tengerből. A lányt sikerült kimenteni, de az apa életét már nem tudták megmenteni.",
+  "content": [
+    "November 1-jén, a délutáni órákban tragikus baleset történt a Porto da Cruz településhez tartozó Maiata strandon. Egy 44 éves ír turista a tengerbe vetette magát, hogy megmentse 14 éves lányát, aki a hullámok között került veszélybe.",
+    "A hatóságokhoz 14:55-kor érkezett a riasztás, miszerint egy személy bajba került a vízben. A helyszínre azonnal kivonult a Funchal-i Tengeri Rendőrség, a SANAS Madeira (Tengeri Mentőszolgálat) és a Machico-i Tűzoltóság egységei.",
+    "A lányt sikerült kimenteni, és azonnal kórházba szállították, mivel az eset súlyos pszichés megterhelést jelentett számára. Az apa azonban a mentés során maga is bajba került, és nem tudott visszajutni a partra.",
+    "A SANAS Madeira egységei húzták ki a férfit a vízből, és azonnal megkezdték az újraélesztést, de az életét már nem tudták megmenteni. A halál beálltát a helyszínen hivatalosan is megállapították.",
+    "A tragédia ismét ráirányította a figyelmet a sziget partvidékének veszélyeire, különösen az őszi-téli időszakban, amikor a hullámzás gyakran kiszámíthatatlan és erőteljes.",
+    "A hatóságok részvétüket fejezték ki az áldozat családjának, és arra kérik a lakosságot és a turistákat, hogy fokozott óvatossággal közelítsék meg a tengerparti területeket, különösen, ha figyelmeztetés van érvényben."
+  ]
+}
+
+]}
