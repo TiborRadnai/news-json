@@ -4,7 +4,7 @@
   "id": 14,
   "title": "Súlyos baleset történt a Via Rápidán",
   "date": "2025.05.31.",
-  "image": "images/News/accidentViaRapida1.webp",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/News/accidentViaRapida1.webp",
   "excerpt": "Ma délután súlyos közlekedési baleset történt a Via Rápidán, amelyben két teherautó és két személygépkocsi ütközött össze...",
   "content": [
   "Ma délután súlyos közlekedési baleset történt a Via Rápidán, amelyben két teherautó és két személygépkocsi ütközött össze. Az ütközés következtében legalább öt ember megsérült, közülük néhányan súlyosan.",
@@ -17,7 +17,7 @@
   "id": 13,
   "title": "Súlyos baleset Ponta do Pargo közelében",
   "date": "2025.05.30.",
-  "image": "images/News/accidentPontaDoPargo1.webp",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/News/accidentPontaDoPargo1.webp",
   "excerpt": "Múlt hét végén súlyos közlekedési baleset történt a Pedregal térségében, Ponta do Pargo közelében...",
   "content": [
   "Múlt hét végén súlyos közlekedési baleset történt a Pedregal térségében, Ponta do Pargo közelében. Egy terepjáró lesodródott az útról és felborult, aminek következtében két ember súlyosan, öt pedig könnyebben megsérült.",
@@ -30,7 +30,7 @@
   "id": 12,
   "title": "Földrengést észleltek Câmara de Lobstól délre",
   "date": "2025.05.29.",
-  "image": "images/News/earthquake1.webp",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/News/earthquake1.webp",
   "excerpt": "A Portugál Tenger- és Légköri Intézet (IPMA) tegnap este egy 1,7-es magnitúdójú földrengést regisztrált Câmara de Lobostól délre...",
   "content": [
   "A Portugál Tenger- és Légköri Intézet (IPMA) tegnap este egy 1,7-es magnitúdójú földrengést regisztrált Câmara de Lobostól délre.",
@@ -42,7 +42,7 @@
   "id": 11,
   "title": "Tűz az Água de Pena térségében – sikeres beavatkozás a lángok megfékezésére",
   "date": "2025.05.28.",
-  "image": "images/News/fireInMachico.webp",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/News/fireInMachico.webp",
   "excerpt": "Szinte teljesen befejeződött a szerdán a Boavista térségében, Água de Penában, Machico városában keletkezett tűz elleni küzdelem...",
   "content": [
   "Szinte teljesen befejeződött a szerdán a Boavista térségében, Água de Penában, Machico városában keletkezett tűz elleni küzdelem, amelyben több tűzoltóalakulat vett részt a lángok megfékezése érdekében.",
@@ -56,7 +56,7 @@
   "id": 10,
   "title": "Egy fiatal és egy gyermek sérült meg egy motoros balesetben az Estrada da Eira do Serrado úton",
   "date": "2025.05.28.",
-  "image": "images/News/motocycleAccident.webp",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/News/motocycleAccident.webp",
   "excerpt": "Egy 23 éves fiatal és egy 10 éves gyermek sérült meg tegnap este...",
   "content": [
   "Egy 23 éves fiatal és egy 10 éves gyermek sérült meg tegnap este, amikor motorkerékpárjaikkal összeütközek az Estrada da Eira do Serrado úton",
@@ -69,7 +69,7 @@
   "id": 9,
   "title": "Rázós leszállás a madeirai repülőtéren",
   "date": "2025.05.27.",
-  "image": "images/News/wizz1.webp",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/News/wizz1.webp",
   "excerpt": "A Wizz Air egyik repülőgépe nehéz leszállást hajtott végre a Madeira repülőtéren múlt vasárnap...",
   "content": [
   "A Wizz Air egyik repülőgépe nehéz leszállást hajtott végre a Madeira repülőtéren múlt vasárnap, május 25-én. A pillanatot repülésrajongók rögzítették, majd egy szakosodott YouTube-csatornán közzétették, ahol a videó „Erős leszállás megrázza a Wizz Air utasait” címet kapta.",
@@ -82,7 +82,7 @@
   "id": 8,
   "title": "Turistát mentettek ki a Ponta de São Lourenço-nál",
   "date": "2025.05.27.",
-  "image": "images/News/lourenco1.webp",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/News/lourenco1.webp",
   "excerpt": "Turistát mentettek ki a Ponta de São Lourenço-nál; a szél megakadályozta a helikopter bevetését...",
   "content": [
   "Egy turista ma reggel elesett, miközben a Ponta de São Lourenço ösvényén túrázott Caniçalban.",
@@ -96,7 +96,7 @@
   "id": 7,
   "title": "NAPA: „Érezzük csodálatos szigetünk szeretetét”",
   "date": "2025.05.15.",
-  "image": "images/News/napa2.jpeg",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/News/napa2.jpeg",
   "excerpt": "A NAPA együttes exkluzív üzenetet küldött a „Bázel 2025 – A fesztivál napjai” című műsorban...",
   "content": [
   "A NAPA együttes exkluzív üzenetet küldött a „Bázel 2025 – A fesztivál napjai” című műsorban, amelyet Marco António Ribeiro vezet a 88.8 JM FM rádióban. A zenekar köszönetet mondott rajongóinak a támogatásért, miután bejutottak az Eurovíziós Dalfesztivál döntőjébe.",
@@ -109,7 +109,7 @@
   "id": 6,
   "title": "Forgalmi fennakadás Seixalban a szabálytalanul parkoló bérautók miatt",
   "date": "2025.05.14.",
-  "image": "images/News/trafficJamSeixal.webp",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/News/trafficJamSeixal.webp",
   "excerpt": "Seixal közlekedése teljesen megbénult egy olyan helyzetben, amely a helyiek szerint nem számít újdonságnak...",
   "content": [
   "Seixal közlekedése teljesen megbénult egy olyan helyzetben, amely a helyiek szerint nem számít újdonságnak. Az autókölcsönző cégek járműveinek nagy száma és néhány gondatlan sofőr figyelmetlensége ismét komoly akadályokat okoz a forgalomban.",
@@ -121,7 +121,7 @@
   "id": 5,
   "title": "Súlyos baleset a gyorsforgalmi úton – egy személy beszorult a járműbe",
   "date": "2025.05.13.",
-  "image": "images/News/crush1.webp",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/News/crush1.webp",
   "excerpt": "Súlyos közlekedési baleset történt kedden a gyorsforgalmi úton, a Caminho do Pilar lehajtó közelében...",
   "content": [
   "Súlyos közlekedési baleset történt kedden a gyorsforgalmi úton, a Caminho do Pilar lehajtó közelében. Az ütközés következtében egy személygépkocsi felborult, és a JM értesülései szerint egy sérült beszorult a járműbe.",
@@ -133,7 +133,7 @@
   "id": 4,
   "title": "A Deslocado a 7. dal lesz ma este",
   "date": "2025.05.13.",
-  "image": "images/News/napa.webp",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/News/napa.webp",
   "excerpt": "A ”Deslocado,” a madeirai NAPA zenekar dala, ma hetedikként hangzik el az Eurovíziós Fesztivál első elődöntőjében.....",
   "content": [
   "„Deslocado,” a madeirai NAPA zenekar dala, ma hetedikként hangzik el az Eurovíziós Fesztivál első elődöntőjében, amelynek helyszíne Bázel, Svájc.",
@@ -146,7 +146,7 @@
   "id": 3,
   "title": "A vadkempingezés továbbra is problémát jelent a Guindaste kilátónál",
   "date": "2025.05.12.",
-  "image": "images/News/illegalCampers.webp",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/News/illegalCampers.webp",
   "excerpt": "A Madeira szigetén található Guindaste kilátónál egyre nagyobb gondot okoz a vadkempingezés.....",
   "content": [
   "A turisztikai szakemberek figyelmeztetnek a Madeira ikonikus helyszínein egyre gyakoribbá váló autós kempingezésre, amely komoly veszélyt jelent a régió turizmusának minőségére és hírnevére.",
@@ -162,7 +162,7 @@
   "id": 2,
   "title": "Földrengést észleltek Porto Santótól északnyugatra",
   "date": "2025.05.12.",
-  "image": "images/News/richterScale.webp",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/News/richterScale.webp",
   "excerpt": "Tegnap este 1,8-as erősségű földrengés volt Porto Santótól északnyugatra.....",
   "content": [
   "Az Instituto Português do Mar e da Atmosfera (IPMA) jelentése szerint tegnap este 1,8-as magnitúdójú földrengés történt Porto Santo-tól északnyugatra. Az eseményt 22:08-kor regisztrálták, és 22 kilométeres mélységben következett be.",
@@ -173,7 +173,7 @@
   "id": 1,
   "title": "A turisták a Cabo Girão kilátó tisztaságának hiányára panaszkodnak",
   "date": "2025.05.10.",
-  "image": "images/News/caboGirao.webp",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/News/caboGirao.webp",
   "excerpt": "A turisták kifogásolják a nem megfelelő takarítást a Cabo Girão kilátónál...",
   "content": [
   "A turisták kifogásolják a nem megfelelő takarítást a Cabo Girão kilátónál, amely a Madeira egyik legikonikusabb látványossága. Annak ellenére, hogy belépődíjat kell fizetni, a látogatók szerint a hely karbantartása elmarad az elvárt színvonaltól, ami rontja az élményt azok számára, akik a lélegzetelállító panorámát szeretnék élvezni.",

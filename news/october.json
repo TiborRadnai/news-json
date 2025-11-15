@@ -4,7 +4,7 @@
   "id": 59,
   "title": "Budapestre tartó Wizz Air járatot irányítottak át Lyonba egy utas allergiás reakciója miatt",
   "date": "2025.10.30.",
-  "image": "images/News/wizzAirDiversion.webp",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/News/wizzAirDiversion.webp",
   "excerpt": "Október 30-án a Wizz Air W6 2398-as járata, amely Funchalból Budapestre tartott, Lyonba lett átirányítva, miután egy utas súlyos allergiás reakciót mutatott a fedélzeten. A gép végül folytatta útját Budapestre.",
   "content": [
     "A Wizz Air W6 2398-as járata október 30-án 16:49-kor szállt fel a Cristiano Ronaldo Nemzetközi Repülőtérről, és eredetileg 22:39-kor érkezett volna meg Budapestre.",
@@ -19,7 +19,7 @@
   "id": 58,
   "title": "Továbbra is érvényben van a viharos szélre és erős hullámzásra vonatkozó figyelmeztetés",
   "date": "2025.10.28.",
-  "image": "images/News/maritimeWarningMadeira.webp",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/News/maritimeWarningMadeira.webp",
   "excerpt": "A Funchal-i kapitányság október 27-én kiadott időjárási figyelmeztetését október 28-án meghosszabbította, miután a szél és a tengeri hullámzás továbbra is veszélyes szintet ér el Madeira partjainál. A hatóságok fokozott óvatosságra intik a hajósokat és a part menti lakosságot.",
   "content": [
     "Október 27-én a Funchal-i kapitányság figyelmeztetést adott ki a viharos szél és a tengeri hullámzás miatt, amely eredetileg október 28-án reggel 6 óráig volt érvényben. Az időjárási körülmények romlása miatt a figyelmeztetést október 28-án meghosszabbították, így az október 29-én reggel 6 óráig marad érvényben.",
@@ -34,7 +34,7 @@
   "id": 57,
   "title": "Káoszba fulladt a közlekedés a Ponta de São Lourenço környékén",
   "date": "2025.10.27.",
-  "image": "images/News/saoLourencoTrafficChaos.webp",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/News/saoLourencoTrafficChaos.webp",
   "excerpt": "Október utolsó hétvégéjén súlyos közlekedési fennakadások alakultak ki a Ponta de São Lourenço környékén, miután a népszerű kirándulóhelyre tömegek érkeztek. A parkolók megteltek, az autók elakadtak, és a mentőegységek is nehezen tudtak közlekedni.",
   "content": [
     "Október 26-án, vasárnap a Ponta de São Lourenço természetvédelmi terület környékén súlyos közlekedési problémák alakultak ki, miután a sziget egyik legnépszerűbb kirándulóhelyére tömegesen érkeztek látogatók.",
@@ -49,7 +49,7 @@
   "id": 56,
   "title": "Szeméthegyek maradtak a Porto Santo-i strandon a strandkézilabda Európa-bajnokság után",
   "date": "2025.10.24.",
-  "image": "images/News/portoSantoBeachTrash.webp",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/News/portoSantoBeachTrash.webp",
   "excerpt": "A Porto Santo-i strand több szakaszát szemét borította be a strandkézilabda klub Európa-bajnokság után. A helyiek és turisták felháborodtak a szervezés hiányosságain, miután a rendezvény lebontása után nem történt megfelelő takarítás.",
   "content": [
     "Október 16. és 19. között rendezték meg a strandkézilabda klub Európa-bajnokságot Porto Santo szigetén, amelyen 32 csapat – 16 női és 16 férfi – vett részt. A nemzetközi esemény sportértéke vitathatatlan, ám a verseny utáni állapotok komoly aggodalmat keltettek.",
@@ -64,7 +64,7 @@
   "id": 55,
   "title": "Kábítószer-ellenes razzia során 1866 adag drogot foglalt le a rendőrség",
   "date": "2025.10.21.",
-  "image": "images/News/pspDrugBustFunchal.webp",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/News/pspDrugBustFunchal.webp",
   "excerpt": "Két különálló házkutatás során összesen 1866 adag kábítószert foglalt le a rendőrség Funchalban. A hatóságok két gyanúsítottat azonosítottak, akik ellen büntetőeljárás indult.",
   "content": [
     "A rendőrség október 21-én jelentette be, hogy két különálló művelet során összesen 1866 adag kábítószert foglaltak le Funchal területén. A razziákat a bűnügyi nyomozóegység hajtotta végre, folyamatban lévő büntetőeljárások keretében.",
