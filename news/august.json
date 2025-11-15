@@ -4,7 +4,7 @@
   "id": 51,
   "title": "Letartóztatták a Ponta do Pargo-i tűzeset feltételezett elkövetőjét",
   "date": "2025.08.20.",
-  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/News/policeArrest.webp",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/policeArrest.webp",
   "excerpt": "Ponta do Pargo településen augusztus 19-én délután keletkezett bozóttűz ügyében a hatóságok őrizetbe vettek egy férfit, akit a tűz szándékos okozásával gyanúsítanak.",
   "content": [
     "A Pedregal térségében történt tűzeset után a Madeira-i Rendőrség (PSP) és az Erdészeti Rendőrség közös műveletben őrizetbe vett egy férfit, akit az augusztus 19-i tűz szándékos okozásával gyanúsítanak.",
@@ -19,7 +19,7 @@
   "id": 50,
   "title": "Helikopter és három tűzoltóegység küzdött a lángokkal Ponta do Pargo térségében",
   "date": "2025.08.19.",
-  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/News/firefightingHelicopter.webp",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/firefightingHelicopter.webp",
   "excerpt": "Augusztus 19-én délután tűz ütött ki Madeira nyugati részén, a Ponta do Pargo település Pedregal nevű térségében. A bozóttűz megfékezésére három tűzoltóegység és a Regionális Polgári Védelem helikoptere is bevetésre került.",
   "content": [
     "A tűz a délutáni órákban keletkezett a Pedregal térségében, ahol a lángok gyorsan terjedtek a sűrű növényzetben. A Madeira-i Regionális Polgári Védelem azonnal riasztotta a helyi egységeket.",
@@ -34,7 +34,7 @@
   "id": 49,
   "title": "Bozóttűz ütött ki Campanárioban – 17 tűzoltó vonult a helyszínre",
   "date": "2025.08.18.",
-  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/News/fireTruck.webp",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/fireTruck.webp",
   "excerpt": "Augusztus 18-án hajnalban tűz ütött ki a Campanário településhez tartozó Terreiros térségében. A nehezen megközelíthető területen 17 tűzoltó és hat jármű vett részt az oltásban, a lángokat reggel 6:10-re sikerült megfékezni.",
   "content": [
     "Campanário településen, a Terreiros nevű térségben augusztus 18-án, hajnali 4:50 körül bozóttűz keletkezett.",
@@ -49,7 +49,7 @@
   "id": 48,
   "title": "Három luxemburgi turista megsérült egy éjszakai verekedésben Funchalban",
   "date": "2025.08.08.",
-  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/News/ruaDasFontesFight.webp",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/ruaDasFontesFight.webp",
   "excerpt": "Augusztus 8-án hajnalban három fiatal turistát szállítottak kórházba, miután verekedés tört ki Funchal belvárosában, a Rua das Fontes környékén. A sérültek Luxemburgból érkeztek, és a helyszínen a mentők látták el őket.",
   "content": [
     "A verekedés péntek hajnalban, körülbelül 03:00-kor történt a Rua das Fontes nevű utcában, amely éjszakánként népszerű találkozóhely a fiatalok körében.",
@@ -64,7 +64,7 @@
   "id": 47,
   "title": "Halott halászt emeltek ki a tengerből Câmara de Lobos közelében",
   "date": "2025.08.08.",
-  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/News/falcaoDoMarTragedy.webp",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/falcaoDoMarTragedy.webp",
   "excerpt": "Péntek hajnalban egy 50 éves portugál halász holttestét emelték ki a tengerből, mintegy 500 méterre Câmara de Lobos partjaitól. A férfi a 'Falcão do Mar' nevű halászhajó fedélzetéről esett a vízbe.",
   "content": [
     "Augusztus 8-án, pénteken hajnalban az illetékes hatóságokat 05:00 körül riasztották, miután egy testet észleltek a vízben, Câmara de Lobos déli részén.",
@@ -79,7 +79,7 @@
   "id": 46,
   "title": "Felhős kedd reggel Madeirán, délutánra javulás várható",
   "date": "2025.08.05.",
-  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/News/madeiraCloudyMorning.webp",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/madeiraCloudyMorning.webp",
   "excerpt": "Augusztus 5-én, kedden reggel Madeira és Porto Santo északi részein felhős idő várható, de délutánra csökken a felhőzet. A szél gyenge vagy mérsékelt, a hőmérséklet enyhén emelkedik.",
   "content": [
     "A Portugál Tenger- és Légköri Intézet (IPMA) előrejelzése szerint kedden reggel Madeira és Porto Santo északi részein felhős időre lehet számítani, míg a déli oldalon kevesebb felhő lesz.",
@@ -94,7 +94,7 @@
   "id": 45,
   "title": "Kihívást jelentő túrát szervez a Madeira-i Kemping Klub",
   "date": "2025.08.04.",
-  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/News/madeiraHikeAug9.webp",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/madeiraHikeAug9.webp",
   "excerpt": "Augusztus 9-én, szombaton a Clube de Campismo da Madeira egy 12 km-es, ötórás, nehéz gyalogtúrát szervez a Boca da Corrida kilátótól egészen a Curral das Freiras templomáig.",
   "content": [
     "A túra a Boca da Corrida kilátónál kezdődik, Jardim da Serra településen, és olyan helyeken halad át, mint a Caminho Real da Encumeada, Boca dos Corgos, Relvinha, Pico Grande csúcsa, Fajã Escura, végül a Curral das Freiras templománál ér véget.",
@@ -109,7 +109,7 @@
   "id": 44,
   "title": "Sanas egység mentett ki egy fürdőzőt Porto Monizban",
   "date": "2025.08.03.",
-  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/News/coastRescue.webp",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/coastRescue.webp",
   "excerpt": "Egy 26 éves spanyol férfit mentett ki a Sanas egysége Porto Monizban, miután a vízbe esett a Piscinas do Aquário környékén. A mentés során több szervezet működött együtt.",
   "content": [
     "Augusztus 3-án egy 26 éves spanyol állampolgárságú férfi esett a vízbe Porto Monizban, a Piscinas do Aquário környékén.",
@@ -123,7 +123,7 @@
   "id": 43,
   "title": "Tűz ütött ki Prazeres térségében",
   "date": "2025.08.03.",
-  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/News/firePrazeres.webp",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/firePrazeres.webp",
   "excerpt": "Vasárnap este tűz ütött ki Prazeres térségében, amelyhez helikopteres egységet is bevetettek. A lángokat kevesebb mint fél óra alatt sikerült megfékezni.",
   "content": [
     "Augusztus 3-án, vasárnap este tűz ütött ki Prazeres térségében, egy erdős területen.",
@@ -138,7 +138,7 @@
   "id": 42,
   "title": "Felhős idő északon és Porto Santón",
   "date": "2025.08.03.",
-  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/News/cloudyMadeiraWeather.webp",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/cloudyMadeiraWeather.webp",
   "excerpt": "Az IPMA előrejelzése szerint Madeira északi részén és Porto Santón erősen felhős idő várható, míg Funchalban csak átmeneti felhősödésre kell számítani. A hőmérséklet továbbra is nyárias.",
   "content": [
     "Az Instituto Português do Mar e da Atmosfera (IPMA) előrejelzése szerint Madeira északi részén, valamint Porto Santón a mai napon erősen felhős lesz az égbolt.",
@@ -153,7 +153,7 @@
   "id": 41,
   "title": "Fokozott erdőfelügyeletet rendelt el az IFCN a rali idejére",
   "date": "2025.08.01.",
-  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/News/ifcnRallyAlert.webp",
+  "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/ifcnRallyAlert.webp",
   "excerpt": "Az IFCN megerősítette az erdőterületek felügyeletét a rali idejére, és felhívta a figyelmet a szabályok betartására. A hatóságok különösen a vadkempingezés és a tűzrakás veszélyeire figyelmeztetnek.",
   "content": [
     "Az Erdő és Természetvédelmi Intézet (IFCN) megerősítette az erdőterületek felügyeletét a rali idejére, mivel a hosszú hétvége alatt jelentősen megnőtt a látogatók száma a hegyvidéki térségekben.",
