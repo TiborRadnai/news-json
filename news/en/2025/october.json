@@ -1,0 +1,79 @@
+{
+"news": [
+    {
+    "id": 59,
+    "title": "Wizz Air Flight to Budapest Diverted to Lyon Due to Passenger’s Allergic Reaction",
+    "date": "October 30, 2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/wizzAirDiversion.webp",
+    "excerpt": "On October 30, Wizz Air flight W6 2398 from Funchal to Budapest was diverted to Lyon after a passenger suffered a severe allergic reaction. The plane later continued to Budapest.",
+    "content": [
+        "On October 30, Wizz Air flight W6 2398 departed Cristiano Ronaldo International Airport at 4:49 p.m. and was originally scheduled to arrive in Budapest at 10:39 p.m.",
+        "During the flight, a Hungarian woman experienced an allergic reaction after apparently consuming food containing nuts. Her condition quickly worsened, prompting the crew to divert the flight.",
+        "The aircraft was redirected to Lyon, where the passenger was disembarked and received medical care. The other passengers remained onboard and initially received no information about the situation.",
+        "The aircraft was an Airbus A321neo, tail number *9H-WNT*. It belongs to the Wizz Air Malta fleet and is configured for modern, long-haul routes.",
+        "The flight later continued to Budapest, arriving safely with a minor delay. Wizz Air did not issue an official statement, but according to airline protocol, passenger safety is the top priority.",
+        "The incident highlights the importance of advance notification for allergic passengers and careful handling of onboard meals, especially on longer international flights."
+    ]
+    },
+    {
+    "id": 58,
+    "title": "Warning for Strong Winds and Rough Seas Remains in Effect",
+    "date": "October 28, 2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/maritimeWarningMadeira.webp",
+    "excerpt": "On October 27, the Funchal captaincy issued a weather warning, which was extended on October 28 as winds and sea conditions continued to reach dangerous levels along Madeira’s coast. Authorities urge caution for sailors and coastal residents.",
+    "content": [
+        "On October 27, the Funchal captaincy issued a warning for strong winds and rough seas, initially valid until 6:00 a.m. on October 28. Due to worsening conditions, the warning was extended until 6:00 a.m. on October 29.",
+        "According to the Portuguese Institute for Sea and Atmosphere (IPMA), winds from the southwest will reach strong to gale-force gusts (60–74 km/h), shifting northwest by evening, slightly easing but remaining brisk (around 50 km/h).",
+        "Wave heights along the northern coast may reach 4.5 meters, while in the south waves of up to 4 meters are expected. The wave direction will shift from west and southwest to northwest.",
+        "Visibility may periodically deteriorate, especially along coastal areas and in open waters. The captaincy urges sailors to check vessel moorings and avoid maritime activities.",
+        "Regional civil protection also issued a warning, advising residents to stay away from rocky shorelines, promenades, beaches, and other exposed areas.",
+        "Authorities emphasize that responsible behavior is essential to prevent accidents under such weather conditions. The warning aims to reduce risks of maritime incidents and coastal hazards."
+    ]
+    },
+    {
+    "id": 57,
+    "title": "Traffic Chaos Around Ponta de São Lourenço",
+    "date": "October 27, 2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/saoLourencoTrafficChaos.webp",
+    "excerpt": "On the last weekend of October, severe traffic disruptions occurred around Ponta de São Lourenço as crowds flocked to the popular hiking destination. Parking lots filled up, cars were stuck, and emergency units struggled to move.",
+    "content": [
+        "On Sunday, October 26, serious traffic problems arose around the Ponta de São Lourenço nature reserve after large numbers of visitors arrived at one of the island’s most popular hiking spots.",
+        "Parking lots were already full in the morning, and cars began parking illegally along roadsides and at the edge of the protected area, significantly obstructing traffic.",
+        "Emergency units on site, including staff from the Cruz Vermelha Portuguesa (Portuguese Red Cross), had difficulty moving due to narrow roads and illegally parked vehicles.",
+        "Police had to intervene several times to restore traffic flow and instruct drivers to stop illegal parking. Authorities stated that the situation endangered not only traffic but also safe emergency response.",
+        "One Red Cross ambulance was unable to leave the area for more than an hour because the road was completely blocked. This was particularly concerning given the frequent minor hiking accidents in the region that require quick assistance.",
+        "Local residents and environmental organizations stressed the urgent need for measures to improve traffic management in the São Lourenço region, especially on weekends and holidays when visitor numbers surge."
+    ]
+    },
+    {
+    "id": 56,
+    "title": "Heaps of Trash Left on Porto Santo Beach After Beach Handball European Championship",
+    "date": "October 24, 2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/portoSantoBeachTrash.webp",
+    "excerpt": "Several sections of Porto Santo beach were covered in trash after the Beach Handball Club European Championship. Locals and tourists expressed outrage over organizational shortcomings, as proper cleaning did not take place after the event was dismantled.",
+    "content": [
+        "From October 16 to 19, the Beach Handball Club European Championship was held on Porto Santo Island, with 32 teams – 16 women’s and 16 men’s – participating. While the sporting value of the international event was undeniable, the aftermath raised serious concerns.",
+        "After the competition, several sections of the beach – particularly the spectator areas and team zones – were left with significant amounts of waste. Photos and videos from the site showed plastic bottles, food scraps, discarded clothing, and other litter covering the sand.",
+        "Locals and tourists reacted with outrage, with many sharing images on social media and calling on organizers and the municipality to take action to clean the beach.",
+        "The event was organized by the European Handball Federation (EHF), in cooperation with the Portuguese Handball Federation and the Madeira Handball Association, with support from the regional government and the Porto Santo municipality.",
+        "No immediate cleaning took place after the dismantling of the event, which drew particular criticism since Porto Santo beach is one of the island’s greatest natural attractions and a source of local pride.",
+        "Organizers later issued a statement acknowledging the shortcomings and promising stricter environmental regulations for future events. The beach was eventually cleaned within a few days, but the incident highlighted the need to take the environmental impact of large events more seriously."
+    ]
+    },
+    {
+    "id": 55,
+    "title": "Police Seize 1,866 Doses of Drugs in Anti-Narcotics Raid",
+    "date": "October 21, 2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/pspDrugBustFunchal.webp",
+    "excerpt": "During two separate house searches, police in Funchal seized a total of 1,866 doses of drugs. Two suspects were identified and criminal proceedings were initiated.",
+    "content": [
+        "On October 21, police announced that two separate operations in Funchal resulted in the seizure of a total of 1,866 doses of drugs. The raids were carried out by the criminal investigation unit as part of ongoing proceedings.",
+        "Authorities executed search warrants at two different locations linked to two separate suspects. At one site, 1,366 doses of hashish were found, while at the other, six cannabis plants weighing around 1.2 kg were seized.",
+        "Police estimated that the seized plants could have produced an additional 500 doses, bringing the total to 1,866.",
+        "The two suspects were identified and formally questioned. Both were released but required to officially register their contact details and residence with authorities.",
+        "In its statement, police emphasized their continued focus on combating drug trafficking and urged the public to be aware of the harmful health effects of psychoactive substances.",
+        "Authorities noted that such operations not only disrupt direct drug distribution but also contribute to maintaining public safety and community peace."
+    ]
+    }
+]   
+}

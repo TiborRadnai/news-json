@@ -1,0 +1,79 @@
+{
+"news": [
+    {
+    "id": 59,
+    "title": "Wizz-Air-Flug nach Budapest wegen allergischer Reaktion eines Passagiers nach Lyon umgeleitet",
+    "date": "30.10.2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/wizzAirDiversion.webp",
+    "excerpt": "Am 30. Oktober wurde der Wizz-Air-Flug W6 2398 von Funchal nach Budapest nach Lyon umgeleitet, nachdem ein Passagier eine schwere allergische Reaktion erlitt. Das Flugzeug setzte später seinen Flug nach Budapest fort.",
+    "content": [
+        "Am 30. Oktober startete der Wizz-Air-Flug W6 2398 um 16:49 Uhr vom Cristiano-Ronaldo-Flughafen und sollte ursprünglich um 22:39 Uhr in Budapest ankommen.",
+        "Während des Fluges erlitt eine ungarische Staatsbürgerin eine allergische Reaktion, nachdem sie offenbar versehentlich Lebensmittel mit Nüssen verzehrt hatte. Ihr Zustand verschlechterte sich rasch, sodass die Crew beschloss, den Flug umzuleiten.",
+        "Das Flugzeug wurde nach Lyon umgeleitet, wo die betroffene Passagierin ausstieg und medizinisch versorgt wurde. Die übrigen Passagiere blieben an Bord und erhielten zunächst keine Informationen über den weiteren Ablauf.",
+        "Es handelte sich um einen Airbus A321neo mit dem Kennzeichen *9H-WNT*. Das Flugzeug gehört zur Flotte von Wizz Air Malta und ist für moderne, längere Strecken optimiert.",
+        "Der Flug setzte später seine Reise nach Budapest fort und kam mit geringer Verspätung sicher an. Wizz Air veröffentlichte keine offizielle Stellungnahme, betonte jedoch, dass die Sicherheit der Passagiere oberste Priorität hat.",
+        "Der Vorfall verdeutlicht, wie wichtig die rechtzeitige Information über Allergien und die sorgfältige Handhabung von Bordverpflegung ist – insbesondere auf längeren internationalen Flügen."
+    ]
+    },
+    {
+    "id": 58,
+    "title": "Warnung vor starkem Wind und hohem Wellengang weiterhin gültig",
+    "date": "28.10.2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/maritimeWarningMadeira.webp",
+    "excerpt": "Am 27. Oktober gab die Kapitänsdirektion von Funchal eine Wetterwarnung heraus, die am 28. Oktober verlängert wurde, da Wind und Seegang weiterhin gefährliche Werte an Madeiras Küste erreichten. Die Behörden mahnen zu erhöhter Vorsicht für Seeleute und Küstenbewohner.",
+    "content": [
+        "Am 27. Oktober gab die Kapitänsdirektion von Funchal eine Warnung wegen starkem Wind und hohem Wellengang heraus, die zunächst bis zum 28. Oktober um 6:00 Uhr gültig war. Aufgrund der verschlechterten Bedingungen wurde die Warnung bis zum 29. Oktober um 6:00 Uhr verlängert.",
+        "Nach Angaben des Portugiesischen Instituts für Meer und Atmosphäre (IPMA) weht der Wind aus südwestlicher Richtung mit starken bis stürmischen Böen (60–74 km/h), dreht am Abend auf Nordwest und bleibt mit etwa 50 km/h weiterhin lebhaft.",
+        "An der Nordküste können die Wellen Höhen von bis zu 4,5 Metern erreichen, während im Süden mit bis zu 4 Metern gerechnet wird. Die Wellenrichtung ändert sich von West und Südwest auf Nordwest.",
+        "Die Sichtverhältnisse können zeitweise eingeschränkt sein, insbesondere an der Küste und auf offener See. Die Kapitänsdirektion fordert die Seeleute auf, ihre Schiffe zu sichern und maritime Aktivitäten zu vermeiden.",
+        "Auch der regionale Zivilschutz gab eine Warnung heraus und forderte die Bevölkerung auf, felsige Küstenabschnitte, Promenaden, Strände und andere gefährdete Bereiche zu meiden.",
+        "Die Behörden betonen, dass verantwortungsbewusstes Verhalten entscheidend ist, um Unfälle unter solchen Wetterbedingungen zu vermeiden. Ziel der Warnung ist es, maritime Zwischenfälle und Gefahren an der Küste zu verhindern."
+    ]
+    },
+    {
+    "id": 57,
+    "title": "Verkehrschaos rund um Ponta de São Lourenço",
+    "date": "27.10.2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/saoLourencoTrafficChaos.webp",
+    "excerpt": "Am letzten Oktoberwochenende kam es rund um Ponta de São Lourenço zu erheblichen Verkehrsbehinderungen, nachdem Massen zu dem beliebten Ausflugsziel strömten. Die Parkplätze waren voll, Autos steckten fest und Rettungseinheiten hatten Schwierigkeiten, sich zu bewegen.",
+    "content": [
+        "Am Sonntag, den 26. Oktober, entstanden rund um das Naturschutzgebiet Ponta de São Lourenço erhebliche Verkehrsprobleme, nachdem zahlreiche Besucher zu einem der beliebtesten Wanderziele der Insel kamen.",
+        "Die Parkplätze waren bereits am Morgen voll, und Autos begannen, illegal am Straßenrand und am Rand des Schutzgebiets zu parken, was den Verkehr erheblich behinderte.",
+        "Vor Ort eingesetzte Rettungseinheiten, darunter Mitarbeiter des Cruz Vermelha Portuguesa (Portugiesisches Rotes Kreuz), hatten aufgrund enger Straßen und illegal geparkter Fahrzeuge große Schwierigkeiten, sich fortzubewegen.",
+        "Die Polizei musste mehrfach eingreifen, um den Verkehr wiederherzustellen und die Fahrer zum Beenden des illegalen Parkens aufzufordern. Die Behörden erklärten, dass die Situation nicht nur den Verkehr, sondern auch die sichere Rettung gefährdete.",
+        "Ein Rettungswagen des Roten Kreuzes konnte das Gebiet mehr als eine Stunde lang nicht verlassen, da die Straße völlig blockiert war. Dies ist besonders besorgniserregend, da in der Region häufig kleinere Wanderunfälle auftreten, die schnelle Hilfe erfordern.",
+        "Einheimische und Umweltorganisationen betonten die dringende Notwendigkeit von Maßnahmen zur Verbesserung der Verkehrsordnung in der Region São Lourenço, insbesondere an Wochenenden und Feiertagen, wenn die Besucherzahlen stark ansteigen."
+    ]
+    },
+    {
+    "id": 56,
+    "title": "Müllberge am Strand von Porto Santo nach Beachhandball-Europameisterschaft zurückgeblieben",
+    "date": "24.10.2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/portoSantoBeachTrash.webp",
+    "excerpt": "Mehrere Abschnitte des Strandes von Porto Santo waren nach der Beachhandball-Club-Europameisterschaft mit Müll bedeckt. Einheimische und Touristen äußerten Empörung über organisatorische Mängel, da nach dem Abbau der Veranstaltung keine ordnungsgemäße Reinigung erfolgte.",
+    "content": [
+        "Vom 16. bis 19. Oktober fand auf der Insel Porto Santo die Beachhandball-Club-Europameisterschaft mit 32 Teams – 16 Frauen- und 16 Männerteams – statt. Der sportliche Wert der internationalen Veranstaltung war unbestreitbar, doch die Zustände danach sorgten für große Besorgnis.",
+        "Nach dem Wettbewerb blieben mehrere Strandabschnitte – insbesondere die Zuschauerbereiche und die von den Teams genutzten Flächen – mit erheblichen Mengen an Abfall zurück. Fotos und Videos zeigten Plastikflaschen, Essensreste, weggeworfene Kleidungsstücke und anderen Müll im Sand.",
+        "Einheimische und Touristen reagierten empört, viele teilten Bilder in sozialen Netzwerken und forderten die Organisatoren sowie die Gemeinde auf, Maßnahmen zur Reinigung des Strandes zu ergreifen.",
+        "Die Veranstaltung wurde von der Europäischen Handballföderation (EHF) organisiert, in Zusammenarbeit mit dem Portugiesischen Handballverband und dem Handballverband Madeira sowie mit Unterstützung der Regionalregierung und der Gemeinde Porto Santo.",
+        "Nach dem Abbau der Veranstaltung erfolgte keine sofortige Reinigung, was besonders kritisiert wurde, da der Strand von Porto Santo eine der größten Naturattraktionen der Insel und ein Stolz der Einheimischen ist.",
+        "Die Organisatoren gaben später eine Erklärung ab, in der sie die Mängel einräumten und versprachen, künftig strengere Umweltauflagen einzuführen. Der Strand wurde schließlich innerhalb weniger Tage gereinigt, doch der Vorfall verdeutlichte, dass die Umweltauswirkungen großer Veranstaltungen ernster genommen werden müssen."
+    ]
+    },
+    {
+    "id": 55,
+    "title": "Polizei beschlagnahmt 1.866 Dosen Drogen bei Anti-Drogen-Razzia",
+    "date": "21.10.2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/pspDrugBustFunchal.webp",
+    "excerpt": "Bei zwei getrennten Hausdurchsuchungen beschlagnahmte die Polizei in Funchal insgesamt 1.866 Dosen Drogen. Zwei Verdächtige wurden identifiziert, gegen sie wurden Strafverfahren eingeleitet.",
+    "content": [
+        "Am 21. Oktober gab die Polizei bekannt, dass bei zwei getrennten Einsätzen in Funchal insgesamt 1.866 Dosen Drogen beschlagnahmt wurden. Die Razzien wurden von der Kriminalermittlungseinheit im Rahmen laufender Verfahren durchgeführt.",
+        "Die Behörden führten Hausdurchsuchungen an zwei verschiedenen Orten durch, die mit zwei unterschiedlichen Verdächtigen in Verbindung stehen. An einem Ort wurden 1.366 Dosen Haschisch gefunden, am anderen sechs Cannabispflanzen mit einem Gesamtgewicht von etwa 1,2 kg beschlagnahmt.",
+        "Die Polizei schätzte, dass aus den beschlagnahmten Pflanzen weitere 500 Dosen hätten hergestellt werden können, sodass die Gesamtmenge 1.866 erreichte.",
+        "Die beiden Verdächtigen wurden identifiziert und offiziell vernommen. Beide wurden freigelassen, mussten jedoch ihre Kontaktdaten und ihren Wohnsitz offiziell bei den Behörden registrieren.",
+        "In ihrer Mitteilung betonte die Polizei, dass sie weiterhin großen Wert auf die Bekämpfung des Drogenhandels legt und die Bevölkerung aufforderte, sich der gesundheitsschädlichen Auswirkungen psychoaktiver Substanzen bewusst zu sein.",
+        "Nach Angaben der Behörden tragen solche Einsätze nicht nur zur Unterbindung des direkten Drogenhandels bei, sondern auch zur Aufrechterhaltung der öffentlichen Sicherheit und Ruhe."
+    ]
+    }
+]   
+}

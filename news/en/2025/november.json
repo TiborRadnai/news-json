@@ -1,0 +1,48 @@
+{
+"news": [
+    {
+    "id": 62,
+    "title": "Swiss Tourist Dies in the Water at Praia do Areeiro",
+    "date": "November 3, 2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/areeiroBeachFatality.webp",
+    "excerpt": "A 74-year-old Swiss man lost his life at Praia do Areeiro after experiencing difficulties in the water and suffering cardiac arrest. Rescue efforts were swift but unsuccessful.",
+    "content": [
+        "On November 3 at 2:40 p.m., Madeira’s Regional Civil Protection received an alert that a person was in distress in the water at Praia do Areeiro, near Funchal.",
+        "The 74-year-old Swiss man was pulled from the water by civilians already on site, who immediately began resuscitation. Rescue units – including the Funchal Maritime Police, Cruz Vermelha Portuguesa, and EMIR (Rapid Medical Response Unit) – arrived within minutes.",
+        "Despite rescue attempts, the man’s life could not be saved. An EMIR doctor confirmed his death at the scene, and the case was handed over to the Madeira Public Prosecutor’s Office.",
+        "The body was transported by the forensic medical service to determine the exact cause of death, though initial information indicated cardiac arrest after experiencing difficulties in the water.",
+        "Praia do Areeiro is part of the Praia Formosa coastline, popular among tourists, but the sea here is often unpredictable, especially during autumn.",
+        "Authorities once again urge residents and visitors to approach coastal areas with caution and always take weather and sea conditions into account."
+    ]
+    },
+    {
+    "id": 61,
+    "title": "Illegally Parked Vehicles Cause Traffic Chaos in Ponta do Pargo Tunnel",
+    "date": "November 2, 2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/pontaDoPargoTunnel.webp",
+    "excerpt": "Several vehicles parked illegally in the tunnel leading to the Ponta do Pargo lighthouse, causing major traffic disruptions. Only alternating one-way traffic was possible at the site.",
+    "content": [
+        "On November 1, in the late afternoon, several vehicles parked illegally in the tunnel leading to the Ponta do Pargo lighthouse, in the Calheta area. The incident caused significant traffic disruptions.",
+        "According to drivers present, parking inside the tunnel slowed traffic, and in several sections only alternating one-way movement was possible. This was particularly dangerous given the tunnel’s narrowness and limited visibility.",
+        "Police received multiple reports and are investigating whether traffic violations or safety risks occurred. Both locals and tourists expressed concern over the breach of traffic regulations.",
+        "The Ponta do Pargo lighthouse is a popular excursion site, especially on weekends and holidays when visitor numbers increase. The tunnel leads directly to the viewpoint, so illegal parking obstructs not only traffic but also emergency routes.",
+        "Authorities urge drivers to obey traffic rules, particularly in narrow and hazardous sections such as tunnels. Increased inspections are expected in the area in the future."
+    ]
+    },
+    {
+    "id": 60,
+    "title": "Irish Tourist Dies While Trying to Rescue Daughter from the Sea at Porto da Cruz",
+    "date": "November 1, 2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/coastRescue2.webp",
+    "excerpt": "A 44-year-old Irish man lost his life at Maiata beach in Porto da Cruz while trying to rescue his 14-year-old daughter from the sea. The girl was saved, but her father could not be revived.",
+    "content": [
+        "On November 1, in the afternoon, a tragic accident occurred at Maiata beach in Porto da Cruz. A 44-year-old Irish tourist jumped into the sea to save his 14-year-old daughter, who was in danger among the waves.",
+        "At 2:55 p.m., authorities received an alert that a person was in distress in the water. Units from the Funchal Maritime Police, SANAS Madeira (Maritime Rescue Service), and the Machico Fire Department were immediately dispatched.",
+        "The girl was rescued and taken to hospital, as the incident caused severe psychological distress. The father, however, got into trouble during the rescue and was unable to return to shore.",
+        "SANAS Madeira teams pulled the man from the water and immediately began resuscitation, but his life could not be saved. His death was officially confirmed at the scene.",
+        "The tragedy once again highlighted the dangers of the island’s coastline, especially in the autumn-winter season when waves are often unpredictable and strong.",
+        "Authorities expressed condolences to the victim’s family and urged residents and tourists to approach coastal areas with caution, particularly when warnings are in effect."
+    ]
+    }
+]    
+}

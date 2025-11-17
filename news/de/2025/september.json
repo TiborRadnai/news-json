@@ -1,0 +1,33 @@
+{
+"news": [
+    {
+    "id": 54,
+    "title": "Lobo Marinho bietet am 21. September zusätzliche Fährverbindungen an",
+    "date": "09.09.2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/loboMarinho.webp",
+    "excerpt": "Am Sonntag, den 21. September – am Vorabend der Herbst-Tagundnachtgleiche – wird die Porto Santo Line mit der Fähre Lobo Marinho zusätzliche Fahrten anbieten, um den Passagieren mehr Möglichkeiten für einen Besuch auf Porto Santo zu geben.",
+    "content": [
+        "Am 9. September gab die Porto Santo Line bekannt, dass die Fähre Lobo Marinho am Sonntag, den 21. September, zusätzliche Fahrten durchführen wird – am Vorabend der Herbst-Tagundnachtgleiche.",
+        "Die Initiative soll Einwohnern und Touristen alternative Möglichkeiten bieten, die Insel Porto Santo zu besuchen, insbesondere gegen Ende der Saison.",
+        "Der Fahrplan für diesen Tag sieht wie folgt aus: Abfahrten von Funchal nach Porto Santo um 08:00 Uhr und 16:30 Uhr (letztere ist eine zusätzliche Fahrt), während die Rückfahrten von Porto Santo nach Funchal um 13:00 Uhr (zusätzlich) und 20:00 Uhr stattfinden.",
+        "Das Unternehmen bittet Interessierte, sich für weitere Informationen an den Kundenservice der Porto Santo Line zu wenden – telefonisch, per WhatsApp oder per E-Mail, montags bis sonntags zwischen 9:00 und 19:00 Uhr (an Feiertagen geschlossen).",
+        "Die zusätzlichen Fahrten bieten sowohl Einheimischen als auch Besuchern die Möglichkeit, die natürliche Schönheit und die ruhige Atmosphäre Porto Santos zu Beginn der Herbstsaison zu genießen."
+    ]
+    },
+    {
+    "id": 53,
+    "title": "Quercus äußert Besorgnis über Zustand des Naturschutzgebiets Fanal",
+    "date": "09.09.2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/fanalPreservation.webp",
+    "excerpt": "Laut Quercus Madeira steht das Naturschutzgebiet Fanal unter erheblichem Umweltstress, der langfristig das ökologische Gleichgewicht der Region gefährdet. Die Organisation fordert dringende Maßnahmen zum Schutz des Gebietes.",
+    "content": [
+        "Am 9. September veröffentlichte die regionale Einheit der Umweltorganisation Quercus eine Erklärung, in der sie auf den sich verschlechternden Zustand des Naturschutzgebiets Fanal hinwies, der durch übermäßige Besucherzahlen und Schäden durch frei weidende Tiere verschärft wird.",
+        "Die Organisation erklärte, dass die jungen Triebe der jahrhundertealten einheimischen Lorbeerbäume regelmäßig von frei weidenden Rindern beschädigt werden, was die natürliche Erneuerung des Waldes behindert und das ökologische Gleichgewicht des Laurisilva-Waldes gefährdet.",
+        "Quercus kritisierte die zuständigen Behörden – insbesondere das Institut für Wälder und Naturschutz (IFCN) – dafür, dass sie den Zugang von Tieren zum Schutzgebiet nicht einschränken und keine Maßnahmen zur Beendigung der Weidehaltung ergreifen.",
+        "In der Erklärung wurde außerdem darauf hingewiesen, dass die steigende Zahl von Besuchern die bestehenden Parkplätze überlastet und Fahrzeuge häufig illegal am Straßenrand parken, was zusätzlichen Druck auf den Boden ausübt.",
+        "Touristen erkunden das Gebiet oft ohne ausgewiesene Wege, klettern auf Lorbeerbäume oder halten sich in den Wurzelzonen auf, was zu Bodenverdichtung, verringerter Wasseraufnahme und Vegetationsverlust führt.",
+        "Quercus forderte das IFCN auf, die Besucherzahl des Gebiets festzulegen, einen kontrollierten Zugang einzuführen und dringend die Weidehaltung zu beenden, um die natürlichen Werte von Fanal für zukünftige Generationen zu bewahren."
+    ]
+    }
+]
+}

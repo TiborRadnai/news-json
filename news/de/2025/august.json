@@ -1,0 +1,168 @@
+{
+"news": [
+    {
+    "id": 51,
+    "title": "Verdächtiger im Zusammenhang mit Brand in Ponta do Pargo festgenommen",
+    "date": "20.08.2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/policeArrest.webp",
+    "excerpt": "Die Behörden nahmen einen Mann fest, der verdächtigt wird, am 19. August absichtlich einen Buschbrand in Ponta do Pargo verursacht zu haben.",
+    "content": [
+        "Nach dem Brand im Gebiet Pedregal führten die Polizei von Madeira (PSP) und die Forstpolizei eine gemeinsame Operation durch und nahmen einen Mann fest, der verdächtigt wird, das Feuer am 19. August absichtlich gelegt zu haben.",
+        "Drei Feuerwehreinheiten sowie ein Hubschrauber des regionalen Zivilschutzes wurden eingesetzt, um die sich schnell ausbreitenden Flammen einzudämmen.",
+        "Die Behörden identifizierten den Verdächtigen anhand von Ermittlungen vor Ort und Zeugenaussagen. Seine Rolle wird nun in einem Strafverfahren untersucht.",
+        "Der Zivilschutz Madeiras betonte, dass solche Vorfälle nicht nur die Natur, sondern auch Menschenleben und Wohngebäude gefährden.",
+        "Die Behörden fordern die Bevölkerung zu erhöhter Aufmerksamkeit auf und betonen, dass jede verdächtige Aktivität sofort gemeldet werden muss.",
+        "In der Sommerzeit ist die Brandgefahr besonders hoch, daher sind Prävention und schnelles Eingreifen entscheidend, um ähnliche Vorfälle zu vermeiden."
+    ]
+    },
+    {
+    "id": 50,
+    "title": "Hubschrauber und drei Feuerwehreinheiten bekämpften Flammen im Gebiet Ponta do Pargo",
+    "date": "19.08.2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/firefightingHelicopter.webp",
+    "excerpt": "Am 19. August brach im Gebiet Pedregal in Ponta do Pargo im Westen Madeiras ein Feuer aus. Drei Feuerwehreinheiten sowie ein Hubschrauber des regionalen Zivilschutzes wurden eingesetzt, um den Brand einzudämmen.",
+    "content": [
+        "Das Feuer brach am Nachmittag im Gebiet Pedregal aus, wo sich die Flammen rasch in dichter Vegetation ausbreiteten. Der regionale Zivilschutz Madeiras alarmierte sofort die örtlichen Einheiten.",
+        "An dem Einsatz beteiligten sich die Freiwillige Feuerwehr Calheta, die Freiwillige Feuerwehr Ribeira Brava und Ponta do Sol sowie die Berufsfeuerwehr Funchal.",
+        "Aufgrund des schwierigen Geländes und der Ausdehnung des Feuers war auch die Unterstützung durch einen Hubschrauber erforderlich, der Wasser aus der Luft abwarf.",
+        "Die Behörden betonten, dass dank der schnellen Reaktion verhindert werden konnte, dass sich das Feuer auf Wohngebiete ausbreitete.",
+        "Die Ursache des Brandes wird noch untersucht, doch sommerliche Trockenheit und Buschland stellen ein erhöhtes Risiko dar.",
+        "Die Bevölkerung wird gebeten, bei Aktivitäten im Freien besondere Vorsicht walten zu lassen, insbesondere beim Entzünden von Feuer."
+    ]
+    },
+    {
+    "id": 49,
+    "title": "Buschbrand in Campanário – 17 Feuerwehrleute im Einsatz",
+    "date": "18.08.2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/fireTruck.webp",
+    "excerpt": "Am frühen Morgen des 18. August brach im Gebiet Terreiros bei Campanário ein Feuer aus. 17 Feuerwehrleute und sechs Fahrzeuge waren im Einsatz, die Flammen konnten bis 6:10 Uhr gelöscht werden.",
+    "content": [
+        "Am 18. August gegen 4:50 Uhr brach im Gebiet Terreiros bei Campanário ein Buschbrand aus.",
+        "Nach der Alarmierung koordinierte das regionale Rettungsoperationszentrum den Einsatz von vier Feuerwehreinheiten – Ribeira Brava und Ponta do Sol, Câmara de Lobos sowie die Berufsfeuerwehr Funchal.",
+        "Insgesamt nahmen 17 Feuerwehrleute und sechs Fahrzeuge an den Löscharbeiten teil, die aufgrund des schwierigen Geländes zu Fuß mit Handwerkzeugen durchgeführt werden mussten.",
+        "Nach Angaben des Zivilschutzes von Madeira konnte durch das schnelle und wirksame Eingreifen der Feuerwehr verhindert werden, dass sich das Feuer weiter ausbreitete.",
+        "Die Flammen wurden bis 6:10 Uhr vollständig gelöscht, anschließend wurden das Gebiet gesichert und Nacharbeiten durchgeführt.",
+        "Auch die PSP (Polícia de Segurança Pública) sowie die Forstbehörde waren vor Ort und unterstützten die Koordination des Einsatzes."
+    ]
+    },
+    {
+    "id": 48,
+    "title": "Drei luxemburgische Touristen bei nächtlicher Schlägerei in Funchal verletzt",
+    "date": "08.08.2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/ruaDasFontesFight.webp",
+    "excerpt": "In den frühen Morgenstunden des 8. August wurden drei junge Touristen ins Krankenhaus gebracht, nachdem in der Innenstadt von Funchal nahe der Rua das Fontes eine Schlägerei ausgebrochen war. Die Verletzten stammten aus Luxemburg und wurden vor Ort von Sanitätern versorgt.",
+    "content": [
+        "Die Schlägerei ereignete sich am frühen Freitagmorgen gegen 03:00 Uhr in der Rua das Fontes, einer Straße, die nachts ein beliebter Treffpunkt für junge Leute ist.",
+        "Die drei beteiligten Männer – 20, 25 und 26 Jahre alt – waren offenbar alkoholisiert, als sie von einer anderen, der Polizei bereits bekannten Gruppe aus bislang ungeklärten Gründen angegriffen wurden.",
+        "Das Portugiesische Rote Kreuz traf mit zwei Krankenwagen und acht Helfern am Ort ein und leistete Erste Hilfe.",
+        "Die Polizei griff schnell ein und beendete die Aggression. Die drei Touristen wurden anschließend ins Dr.-Nélio-Mendonça-Krankenhaus gebracht.",
+        "Einer der Männer erlitt eine schwere Nasenverletzung, ein anderer Gesichtsverletzungen und Schnittwunden, während der dritte mit leichteren Verletzungen davonkam.",
+        "Die Polizei leitete eine Untersuchung ein, um die genauen Ursachen und Umstände der Schlägerei zu klären."
+    ]
+    },
+    {
+    "id": 47,
+    "title": "Toter Fischer nahe Câmara de Lobos aus dem Meer geborgen",
+    "date": "08.08.2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/falcaoDoMarTragedy.webp",
+    "excerpt": "Am Freitagmorgen wurde die Leiche eines 50-jährigen portugiesischen Fischers etwa 500 Meter vor Câmara de Lobos aus dem Meer geborgen. Der Mann war vom Fischereischiff 'Falcão do Mar' ins Wasser gefallen.",
+    "content": [
+        "Am Freitag, den 8. August, gegen 05:00 Uhr wurden die Behörden alarmiert, nachdem eine Leiche im Wasser südlich von Câmara de Lobos entdeckt worden war.",
+        "Ein Rettungsboot der Station Funchal wurde sofort entsandt und barg die Leiche eines 50-jährigen Portugiesen, der Mitglied der Besatzung des Fischereischiffs 'Falcão do Mar' war.",
+        "Das Schiff lag etwa 500 Meter vor der Küste vor Anker, als der Mann – unter bislang ungeklärten Umständen – ins Wasser fiel.",
+        "Das Rettungsteam brachte die Leiche in den Hafen von Funchal, zum Cais 8, wo ein zuständiger Gesundheitsfachmann den Tod bestätigte.",
+        "Drei Sanitäter und zwei Beamte der Seepolizei trafen am Ort ein, zudem begannen Kriminalbeamte mit der Untersuchung des Falls.",
+        "Die Behörden vermuten, dass der Tod des Mannes durch ein plötzliches gesundheitliches Problem verursacht wurde, die genaue Ursache soll jedoch durch die Ermittlungen geklärt werden."
+    ]
+    },
+    {
+    "id": 46,
+    "title": "Wolkiger Dienstagmorgen auf Madeira, am Nachmittag Besserung erwartet",
+    "date": "05.08.2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/madeiraCloudyMorning.webp",
+    "excerpt": "Am Dienstag, den 5. August, wird in den nördlichen Teilen von Madeira und Porto Santo wolkiges Wetter erwartet, doch am Nachmittag soll sich die Bewölkung verringern. Der Wind bleibt schwach bis mäßig, die Temperaturen steigen leicht.",
+    "content": [
+        "Nach Angaben des Portugiesischen Instituts für Meer und Atmosphäre (IPMA) ist am Dienstagmorgen in den nördlichen Teilen von Madeira und Porto Santo mit bewölktem Wetter zu rechnen, während die Südseite weniger Wolken aufweist.",
+        "Im Laufe des Tages nimmt die Bewölkung allmählich ab, besonders am Nachmittag, wenn mehr Sonnenschein erwartet wird.",
+        "Der Wind weht aus nordöstlicher Richtung mit schwacher bis mäßiger Stärke (10–25 km/h).",
+        "Die Temperaturen steigen leicht in höher gelegenen Gebieten, die Wassertemperatur des Meeres liegt zwischen 23–24°C.",
+        "An der Nordküste ist mit Wellen von 1–1,5 Metern zu rechnen, während im Süden die Wellen weniger als 1 Meter hoch sind.",
+        "Laut Vorhersage empfiehlt es sich, besonders am Morgen auf Schichtkleidung zu achten und die Meeresbedingungen im Blick zu behalten, wenn Küstenaktivitäten geplant sind."
+    ]
+    },
+    {
+    "id": 45,
+    "title": "Madeira Camping Club organisiert anspruchsvolle Wanderung",
+    "date": "04.08.2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/madeiraHikeAug9.webp",
+    "excerpt": "Am Samstag, den 9. August, organisiert der Clube de Campismo da Madeira eine 12 km lange, fünfstündige, schwierige Wanderung vom Aussichtspunkt Boca da Corrida bis zur Kirche von Curral das Freiras.",
+    "content": [
+        "Die Wanderung beginnt am Aussichtspunkt Boca da Corrida in Jardim da Serra und führt über Orte wie Caminho Real da Encumeada, Boca dos Corgos, Relvinha, den Gipfel des Pico Grande, Fajã Escura und endet an der Kirche von Curral das Freiras.",
+        "Die Strecke ist etwa 12 km lang, dauert 5 Stunden und hat einen hohen Schwierigkeitsgrad, daher wird eine gute körperliche Verfassung empfohlen.",
+        "Anmeldeschluss ist Freitag, der 8. August, um 12:00 Uhr. Die Anmeldung erfolgt per E-Mail an clubecampismomadeira@gmail.com oder per WhatsApp unter +351 969 591 687.",
+        "Der Preis beinhaltet den Hin- und Rücktransport von Funchal sowie eine Unfallversicherung.",
+        "Wichtig: Wer nicht rechtzeitig (bis 16:00 Uhr am Vortag) absagt, muss die Transport- und Versicherungskosten bezahlen.",
+        "Empfohlene Ausrüstung: Wanderschuhe, wettergerechte Kleidung, Regenjacke, Mütze oder Hut, Wanderstock, Rucksack mit Verpflegung (Sandwich, Wasser, Obst, Schokolade usw.), Trinkflasche sowie ein Müllsack für den eigenen Abfall."
+    ]
+    },
+    {
+    "id": 44,
+    "title": "Sanas-Einheit rettete Schwimmer in Porto Moniz",
+    "date": "03.08.2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/coastRescue.webp",
+    "excerpt": "Ein 26-jähriger Spanier wurde von einer Sanas-Einheit in Porto Moniz gerettet, nachdem er nahe den Piscinas do Aquário ins Wasser gefallen war. An der Rettung waren mehrere Organisationen beteiligt.",
+    "content": [
+        "Am 3. August fiel ein 26-jähriger spanischer Staatsbürger in Porto Moniz nahe den Piscinas do Aquário ins Wasser.",
+        "Das Rettungsboot von Sanas traf schnell am Ort ein, rettete den Schwimmer und brachte ihn in den Hafen, wo bereits ein Krankenwagen wartete.",
+        "Beim Mann wurden Anzeichen eines Traumas an den oberen Gliedmaßen festgestellt, weshalb er weitere medizinische Versorgung benötigte.",
+        "Die Rettungsaktion wurde vom SANAS Madeira Operations- und Leitungszentrum koordiniert, in Zusammenarbeit mit dem regionalen Zivilschutz (IP-RAM) und dem maritimen Rettungszentrum MRSC Funchal.",
+        "Dank des schnellen Eingreifens konnte der Schwimmer sicher in eine medizinische Einrichtung gebracht werden."
+    ]
+    },
+    {
+    "id": 43,
+    "title": "Brand im Gebiet Prazeres ausgebrochen",
+    "date": "03.08.2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/firePrazeres.webp",
+    "excerpt": "Am Sonntagabend brach im Gebiet Prazeres ein Feuer aus, bei dem auch ein Hubschrauber eingesetzt wurde. Die Flammen konnten in weniger als einer halben Stunde gelöscht werden.",
+    "content": [
+        "Am Sonntagabend, den 3. August, brach in einem Waldgebiet von Prazeres ein Feuer aus.",
+        "Der Brand wurde um 18:48 Uhr von einer Polizeistreife entdeckt, die sofort das regionale Katastrophenschutz-Zentrum informierte.",
+        "Insgesamt wurden 22 Feuerwehrleute und 4 Fahrzeuge entsandt, aus den Feuerwehren von Calheta, Ribeira Brava, Ponta do Sol sowie São Vicente und Porto Moniz.",
+        "Während des Einsatzes wurde auch eine Hubschraubereinheit eingesetzt, die ein Team zum Ort brachte.",
+        "Der Brand konnte bis 19:07 Uhr unter Kontrolle gebracht werden, es gab keine Meldungen über Verletzte.",
+        "Auch die Polícia Florestal beteiligte sich an dem Einsatz."
+    ]
+    },
+    {
+    "id": 42,
+    "title": "Wolkiges Wetter im Norden und auf Porto Santo",
+    "date": "03.08.2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/cloudyMadeiraWeather.webp",
+    "excerpt": "Laut Vorhersage des IPMA wird im Norden Madeiras und auf Porto Santo starke Bewölkung erwartet, während in Funchal nur vorübergehend Wolken auftreten. Die Temperaturen bleiben sommerlich.",
+    "content": [
+        "Nach Angaben des Instituto Português do Mar e da Atmosfera (IPMA) wird heute im Norden Madeiras sowie auf Porto Santo starke Bewölkung herrschen.",
+        "Der Wind weht aus nördlicher Richtung mit schwacher bis mäßiger Stärke, bis zu 30 km/h.",
+        "In Funchal beginnt der Morgen mit wenigen Wolken, doch von Vormittag bis zum späten Nachmittag kann die Bewölkung zeitweise zunehmen.",
+        "Die Lufttemperaturen bleiben warm: 22–27°C auf Madeira und 21–25°C auf Porto Santo.",
+        "Auf See werden an der Nordküste Wellen von 1,5–2 Metern erwartet, während sie im Süden unter 1 Meter bleiben.",
+        "Die Wassertemperatur des Meeres liegt zwischen 23–24°C."
+    ]
+    },
+    {
+    "id": 41,
+    "title": "IFCN ordnet verstärkte Waldüberwachung während der Rallye an",
+    "date": "01.08.2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/ifcnRallyAlert.webp",
+    "excerpt": "Das IFCN verstärkte während der Rallye die Waldüberwachung und rief zur Einhaltung der Vorschriften auf. Die Behörden warnten insbesondere vor den Gefahren von Wildcamping und unerlaubten Feuerstellen.",
+    "content": [
+        "Das Institut für Wälder und Naturschutz (IFCN) verstärkte während der Rallye die Waldüberwachung, da die Zahl der Besucher in den Bergregionen über das lange Wochenende deutlich zunahm.",
+        "Das Institut wies darauf hin, dass Camping auf öffentlichem Gelände nur mit vorheriger Genehmigung erlaubt ist, die online über das Simplifica-Portal beantragt werden kann.",
+        "Die Behörden überwachen insbesondere unerlaubte Feuerstellen, da diese ein erhebliches Brandrisiko darstellen, insbesondere in der Sommerzeit.",
+        "Nach Angaben des IFCN kommt es weiterhin zu nicht genehmigten Campingaktivitäten und Feuerstellen, die die Natur, die Sicherheit von Eigentum und Menschenleben gefährden.",
+        "Das Institut fordert die Besucher auf, die Umweltschutzbestimmungen einzuhalten und sich ausschließlich in ausgewiesenen Bereichen aufzuhalten.",
+        "Die Meldung erschien ursprünglich in der madeirischen Presse."
+    ]
+    }
+]
+}
