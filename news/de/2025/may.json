@@ -1,0 +1,184 @@
+{
+  "news": [
+    {
+    "id": 14,
+    "title": "Schwerer Unfall auf der Via Rápida",
+    "date": "2025-05-31",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/accidentViaRapida1.webp",
+    "excerpt": "Heute Nachmittag ereignete sich ein schwerer Verkehrsunfall auf der Via Rápida, an dem zwei Lastwagen und zwei Autos beteiligt waren...",
+    "content": [
+        "Heute Nachmittag kam es auf der Via Rápida zu einem schweren Verkehrsunfall, bei dem zwei Lastwagen und zwei Pkw zusammenstießen. Dabei wurden mindestens fünf Menschen verletzt, einige von ihnen schwer.",
+        "Am Unfallort trafen 29 Einsatzkräfte und 10 Rettungsfahrzeuge ein, darunter Krankenwagen, technische Rettungseinheiten und das EMIR-Notfallärzteteam. Die Rettungsaktion wurde von den Freiwilligen Feuerwehrleuten von Funchal, der Berufsfeuerwehr Funchal und dem Portugiesischen Roten Kreuz durchgeführt.",
+        "Infolge des Unfalls wurde der betroffene Abschnitt der Via Rápida gesperrt, was zu erheblichen Verkehrsbehinderungen führte. Die Behörden arbeiten derzeit daran, die Fahrzeuge zu entfernen und die Strecke zu räumen, damit der Verkehr so schnell wie möglich wieder aufgenommen werden kann.",
+        "Die Polizei untersucht die Umstände des Vorfalls, um herauszufinden, was zu der Kollision geführt hat. Nach ersten Berichten ereignete sich der Unfall zwischen den Abschnitten Viveiros und Santo António, und die Rettungsarbeiten dauern weiterhin an."
+    ]
+    },
+    {
+    "id": 13,
+    "title": "Schwerer Unfall in der Nähe von Ponta do Pargo",
+    "date": "2025-05-30",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/accidentPontaDoPargo1.webp",
+    "excerpt": "Am vergangenen Wochenende ereignete sich ein schwerer Verkehrsunfall im Gebiet von Pedregal, nahe Ponta do Pargo...",
+    "content": [
+        "Am vergangenen Wochenende kam es im Gebiet von Pedregal, nahe Ponta do Pargo, zu einem schweren Verkehrsunfall. Ein Geländewagen kam von der Straße ab und überschlug sich, wobei zwei Personen schwer und fünf weitere leicht verletzt wurden.",
+        "Die Rettungsaktion wurde von der örtlichen Feuerwehr und den Rettungseinheiten durchgeführt. Insgesamt waren 46 Einsatzkräfte beteiligt, unterstützt von 14 Fahrzeugen und einem Hubschrauber. Der erste Alarm ging um 12:50 Uhr ein und meldete zunächst nur zwei Verletzte, später stellte sich jedoch heraus, dass insgesamt sieben Personen betroffen waren.",
+        "Die beiden Schwerverletzten wurden vom EMIR-Ärzteteam vor Ort stabilisiert und anschließend per Hubschrauber ins Krankenhaus gebracht. Die übrigen Verletzten wurden von den Rettungseinheiten versorgt und je nach Zustand in verschiedene Gesundheitseinrichtungen transportiert.",
+        "Der Unfall ereignete sich in einem schwer zugänglichen Gebiet, was die Rettungsarbeiten zusätzlich erschwerte. Die Behörden untersuchen derzeit die Umstände des Vorfalls, um herauszufinden, was dazu führte, dass das Fahrzeug von der Straße abkam und sich überschlug."
+    ]
+    },
+    {
+    "id": 12,
+    "title": "Erdbeben südlich von Câmara de Lobos registriert",
+    "date": "2025-05-29",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/earthquake1.webp",
+    "excerpt": "Das Portugiesische Institut für Meer und Atmosphäre (IPMA) registrierte gestern Abend ein Erdbeben der Stärke 1,7 südlich von Câmara de Lobos...",
+    "content": [
+        "Das Portugiesische Institut für Meer und Atmosphäre (IPMA) meldete gestern Abend ein Erdbeben der Stärke 1,7 südlich von Câmara de Lobos.",
+        "Das Beben ereignete sich um 21:49 Uhr und wurde in einer Tiefe von 14 Kilometern festgestellt.",
+        "Nach den Koordinaten des IPMA lag das Epizentrum bei 32,277° nördlicher Breite und 16,998° westlicher Länge."
+    ]
+    },
+    {
+    "id": 11,
+    "title": "Brand im Gebiet von Água de Pena – erfolgreicher Einsatz zur Eindämmung der Flammen",
+    "date": "2025-05-28",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/fireInMachico.webp",
+    "excerpt": "Der Löscheinsatz im Gebiet Boavista in Água de Pena, Machico, wurde am Mittwoch nahezu abgeschlossen...",
+    "content": [
+        "Der Löscheinsatz im Gebiet Boavista in Água de Pena, Machico, wurde am Mittwoch nahezu abgeschlossen. Mehrere Feuerwehreinheiten waren im Einsatz, um die Flammen einzudämmen.",
+        "João Lima, Kommandant der Feuerwehr von Machico, erklärte gegenüber JM, dass drei Feuerwehreinheiten beteiligt waren und zusätzlich der Hubschrauber des Regionalen Zivilschutzes eingesetzt wurde.",
+        "Das Feuer im Buschland trat bereits am frühen Nachmittag in die Eindämmungsphase ein, nachdem an drei verschiedenen Fronten rasch eingegriffen worden war.",
+        "Vor Ort waren die Gemeindefeuerwehr von Machico, die Berufsfeuerwehr von Santa Cruz und Funchal sowie ein Wassertransportfahrzeug, unterstützt durch den Hubschrauber des Zivilschutzes.",
+        "Die schnelle Mobilisierung der Einsatzmittel und die koordinierte Zusammenarbeit der Teams spielten eine entscheidende Rolle bei der Eindämmung der Flammen und der Verhinderung ihrer Ausbreitung."
+    ]
+    },
+    {
+    "id": 10,
+    "title": "Jugendlicher und Kind bei Motorradunfall auf der Estrada da Eira do Serrado verletzt",
+    "date": "2025-05-28",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/motocycleAccident.webp",
+    "excerpt": "Ein 23-jähriger Jugendlicher und ein 10-jähriges Kind wurden gestern Abend verletzt...",
+    "content": [
+        "Ein 23-jähriger Jugendlicher und ein 10-jähriges Kind wurden gestern Abend verletzt, als ihre Motorräder auf der Estrada da Eira do Serrado zusammenstießen.",
+        "Die Feuerwehr von Funchal wurde um 20:51 Uhr alarmiert, um den beiden Verletzten Hilfe zu leisten.",
+        "Laut JM klagte der 23-Jährige über Schmerzen im Brustbereich und erlitt Schürfwunden am Bein. Das Kind zog sich Schürfwunden im Gesicht und am Knie zu.",
+        "Beide wurden in die Notaufnahme des Dr.-Nélio-Mendonça-Krankenhauses gebracht."
+    ]
+    },
+    {
+    "id": 9,
+    "title": "Holprige Landung am Flughafen Madeira",
+    "date": "2025-05-27",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/wizz1.webp",
+    "excerpt": "Ein Flugzeug von Wizz Air führte am vergangenen Sonntag eine schwierige Landung am Flughafen Madeira durch...",
+    "content": [
+        "Ein Flugzeug von Wizz Air führte am vergangenen Sonntag, dem 25. Mai, eine schwierige Landung am Flughafen Madeira durch. Flugbegeisterte hielten den Moment fest und veröffentlichten ihn auf einem spezialisierten YouTube-Kanal, wo das Video den Titel „Harte Landung erschüttert Wizz-Air-Passagiere“ erhielt.",
+        "Das Manöver verursachte ein technisches Problem am Flugzeug, das untersucht werden musste, bevor es seine Reise fortsetzen konnte, berichtete SIC Notícias.",
+        "Passagiere an Bord kommentierten auf dem Kanal Madeira Runway Spotting, der fast 50.000 Aufrufe verzeichnete, dass sie die Erfahrung als „etwas beängstigend“ empfanden.",
+        "Obwohl die Landebahn von Madeira für die Herausforderungen bekannt ist, die sie den Piloten insbesondere bei starkem Wind stellt, landeten am selben Tag vier weitere Flugzeuge derselben Fluggesellschaft ohne Zwischenfälle am Cristiano-Ronaldo-Flughafen."
+    ]
+    },
+    {
+    "id": 8,
+    "title": "Tourist bei Ponta de São Lourenço gerettet",
+    "date": "2025-05-27",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/lourenco1.webp",
+    "excerpt": "Ein Tourist wurde bei Ponta de São Lourenço gerettet; starker Wind verhinderte den Einsatz des Hubschraubers...",
+    "content": [
+        "Heute Morgen stürzte ein Tourist beim Wandern auf dem Ponta-de-São-Lourenço-Pfad in Caniçal.",
+        "Ein Hubschrauber wurde zur Rettung alarmiert, konnte jedoch aufgrund des starken Windes nicht eingesetzt werden.",
+        "Schließlich rettete das Team der Gemeindefeuerwehr von Machico den etwa 60-jährigen Mann, der rund vier Meter gestürzt war.",
+        "Die Feuerwehrleute mussten mehr als eine halbe Stunde zu Fuß gehen, um den Verletzten zu erreichen.",
+        "Der Mann wurde später ins Krankenhaus gebracht, wo er wegen eines vermuteten Bruchs im oberen Gliedmaßensegment untersucht wurde."
+    ]
+    },
+    {
+    "id": 7,
+    "title": "NAPA: „Wir spüren die Liebe unserer wunderbaren Insel“",
+    "date": "2025-05-15",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/napa2.webp",
+    "excerpt": "Die Band NAPA sandte eine exklusive Botschaft in der Sendung „Basel 2025 – Festivaltage“…",
+    "content": [
+        "Die Band NAPA übermittelte eine exklusive Botschaft in der Sendung „Basel 2025 – Festivaltage“, moderiert von Marco António Ribeiro auf 88.8 JM FM. Die Gruppe dankte ihren Fans für die Unterstützung, nachdem sie das Finale des Eurovision Song Contest erreicht hatte.",
+        "„Vielen Dank für die unglaubliche Unterstützung, die wir erhalten haben. Wir stehen im Finale! Es ist ein großartiges Gefühl für uns, in dieser Situation zu sein, und wir werden alles geben, um Portugal bestmöglich zu vertreten“, sagte Guilherme Gomes, Sänger und Gitarrist der madeirischen Band.",
+        "„Wir spüren die Liebe unserer wunderbaren Insel. Vielen Dank für das Vertrauen und die Unterstützung“, fügte er hinzu und versprach, auch im Finale ihr Bestes zu geben.",
+        "Heute kämpfen sechzehn Länder um die letzten zehn Plätze im 69. Eurovision Song Contest Finale, das am Samstag in Basel, Schweiz, ausgetragen wird. Portugal hat sich bereits mit dem Lied „Deslocado“ von NAPA einen Platz im Finale gesichert."
+    ]
+    },
+    {
+    "id": 6,
+    "title": "Verkehrschaos in Seixal wegen illegal geparkter Mietwagen",
+    "date": "2025-05-14",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/trafficJamSeixal.webp",
+    "excerpt": "Der Verkehr in Seixal kam völlig zum Erliegen – eine Situation, die für die Einheimischen nicht neu ist...",
+    "content": [
+        "Der Verkehr in Seixal kam völlig zum Erliegen – eine Situation, die nach Angaben der Einheimischen keineswegs neu ist. Die große Zahl an Mietwagen und die Unachtsamkeit einiger Fahrer verursachen erneut erhebliche Behinderungen im Straßenverkehr.",
+        "Laut JM ist es derzeit im Ortszentrum in keine Richtung möglich, voranzukommen. Ein Pkw versuchte weiterzufahren, doch die Straße wurde durch illegal geparkte Fahrzeuge in einer Kurve blockiert, sodass auch Busse nicht passieren können.",
+        "Derzeit stehen alle Fahrzeuge still und warten auf das Eintreffen der PSP (Portugiesische Polizei), die gerufen wurde, um die Situation zu lösen und den Verkehr wiederherzustellen."
+    ]
+    },
+    {
+    "id": 5,
+    "title": "Schwerer Unfall auf der Schnellstraße – eine Person im Fahrzeug eingeklemmt",
+    "date": "2025-05-13",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/crush1.webp",
+    "excerpt": "Am Dienstag ereignete sich ein schwerer Verkehrsunfall auf der Schnellstraße nahe der Ausfahrt Caminho do Pilar...",
+    "content": [
+        "Am Dienstag ereignete sich ein schwerer Verkehrsunfall auf der Schnellstraße nahe der Ausfahrt Caminho do Pilar. Bei der Kollision überschlug sich ein Pkw, und laut JM wurde eine verletzte Person im Fahrzeug eingeklemmt.",
+        "Der Alarm wurde gegen 10:00 Uhr ausgelöst, woraufhin vier Feuerwehrfahrzeuge und 14 Feuerwehrleute am Unfallort eintrafen, um Hilfe zu leisten.",
+        "Der betroffene Abschnitt der Schnellstraße wurde vorübergehend gesperrt, was zu erheblichen Verkehrsbehinderungen führte."
+    ]
+    },
+    {
+    "id": 4,
+    "title": "„Deslocado“ wird heute Abend als 7. Lied aufgeführt",
+    "date": "2025-05-13",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/napa.webp",
+    "excerpt": "„Deslocado“, das Lied der madeirischen Band NAPA, wird heute Abend als siebtes im ersten Eurovision-Halbfinale gespielt...",
+    "content": [
+        "„Deslocado“, das Lied der madeirischen Band NAPA, wird heute Abend als siebtes im ersten Eurovision-Halbfinale aufgeführt, das in Basel, Schweiz, stattfindet.",
+        "Die von Guilherme Gomes geleitete Gruppe veröffentlichte einen Beitrag in den sozialen Medien, in dem sie mitteilte, dass die erste Abstimmungsrunde bereits gestern, am Montag, dem 12. Mai, um 23:00 Uhr eröffnet wurde.",
+        "In dieser Runde können Länder, die in diesem Jahr nicht am Eurovision teilnehmen, online über www.esc.vote abstimmen, betonten sie.",
+        "Zudem hoben sie hervor, dass für die übrigen Länder die Abstimmung heute Abend, am Dienstag, dem 13. Mai, nach den täglichen Auftritten per Telefon, über die offizielle Eurovision-App oder per SMS erfolgt."
+    ]
+    },
+    {
+    "id": 3,
+    "title": "Wildes Camping bleibt ein Problem am Aussichtspunkt Guindaste",
+    "date": "2025-05-12",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/illegalCampers.webp",
+    "excerpt": "Wildes Camping sorgt weiterhin für wachsende Besorgnis am Aussichtspunkt Guindaste auf Madeira...",
+    "content": [
+        "Tourismusexperten warnen vor dem zunehmenden Trend des Autocampings an den ikonischen Orten Madeiras, der eine ernsthafte Gefahr für die Qualität und das Ansehen des Tourismus in der Region darstellt.",
+        "Laut Dinarte Fernandes, Präsident der Gemeinde Santana, handelt es sich eindeutig um eine ungerechtfertigte Besetzung öffentlichen Raums. Die lokalen Behörden, einschließlich der PSP (Portugiesische Polizei), wurden bereits über das Problem informiert. Er ist der Meinung, dass die PSP in solchen Fällen Maßnahmen ergreifen sollte.",
+        "JM berichtete bereits vor einer Woche, dass für Camping umgebaute Fahrzeuge am Aussichtspunkt Miradouro do Guindaste aufgetaucht seien. Seitdem kursieren neue Bilder in den sozialen Medien, die eine weitere Verschlechterung der Situation zeigen.",
+        "Besucher schlafen inzwischen nicht nur in ihren Fahrzeugen, sondern richten auch improvisierte Räume und „Hinterhöfe“ ein, in denen sie Wäsche aufhängen und im Freien kochen. Heute Morgen war eine Touristengruppe schockiert über diesen Anblick, der leider zu einer regelmäßigen Erscheinung an diesem Aussichtspunkt geworden ist.",
+        "Während Dutzende Besucher mit dem Bus ankamen, um das Panorama und die Gegebenheiten des Ortes zu genießen, wachte eine Familie ruhig auf und setzte ihre tägliche Routine fort, als befände sie sich auf einem offiziellen Campingplatz – einschließlich Kochen, Waschen und Wäscheaufhängen.",
+        "Fachleute aus dem Tourismussektor, insbesondere Reiseleiter und Dolmetscher, sind besorgt über die Schädigung des Images von Madeira. Sie sind der Ansicht, dass diese informellen Campingpraktiken das touristische Erlebnis der Insel beeinträchtigen könnten, das stets auf organisierten, nachhaltigen und hochwertigen Tourismus ausgerichtet war.",
+        "Die veröffentlichten Fotos zeigen eindeutig, dass sich die emblematischen Orte der Insel in improvisierte Lager verwandeln – ohne jegliche Aufsicht und ohne Einhaltung grundlegender Hygienestandards."
+    ]
+    },
+    {
+    "id": 2,
+    "title": "Erdbeben nordwestlich von Porto Santo registriert",
+    "date": "2025-05-12",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/richterScale.webp",
+    "excerpt": "Gestern Abend wurde ein Erdbeben der Stärke 1,8 nordwestlich von Porto Santo registriert...",
+    "content": [
+        "Nach Angaben des Portugiesischen Instituts für Meer und Atmosphäre (IPMA) ereignete sich gestern Abend ein Erdbeben der Stärke 1,8 nordwestlich von Porto Santo. Das Ereignis wurde um 22:08 Uhr registriert und in einer Tiefe von 22 Kilometern festgestellt.",
+        "Das Erdbeben wurde bei 34,3558° nördlicher Breite und 16,716° westlicher Länge lokalisiert."
+    ]
+    },
+    {
+    "id": 1,
+    "title": "Touristen beklagen mangelnde Sauberkeit am Aussichtspunkt Cabo Girão",
+    "date": "2025-05-10",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/caboGirao.webp",
+    "excerpt": "Touristen kritisieren die unzureichende Reinigung am Aussichtspunkt Cabo Girão...",
+    "content": [
+        "Touristen beklagen die unzureichende Reinigung am Aussichtspunkt Cabo Girão, einer der bekanntesten Sehenswürdigkeiten Madeiras. Trotz Eintrittsgebühr meinen Besucher, dass die Pflege nicht den Erwartungen entspricht und das Erlebnis für diejenigen schmälert, die das atemberaubende Panorama genießen möchten.",
+        "Ein Besucher äußerte sich so: „Wenn man schon dafür bezahlen muss, sollte es sauber sein, damit man die Aussicht wirklich genießen kann. Andernfalls hat der Skywalk keinen Sinn.“ Der Skywalk ist eine Glasbodenplattform, die über die Klippe hinausragt, wird jedoch aufgrund mangelnder Pflege zunehmend kritisiert."
+    ]
+    }
+  ]  
+}
