@@ -3,7 +3,7 @@
     {
     "id": 40,
     "title": "Flughafen gibt Warnung wegen ungünstiger Wetterbedingungen heraus",
-    "date": "31.07.2025",
+    "date": "July 31, 2025",
     "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/madeiraAirportAlert.webp",
     "excerpt": "Der Flughafen hat eine Warnung wegen erwarteter starker Winde herausgegeben, die den Luftverkehr beeinträchtigen könnten. Passagiere werden gebeten, vor der Abreise den Status ihrer Flüge zu überprüfen.",
     "content": [
@@ -17,7 +17,7 @@
     {
     "id": 39,
     "title": "Vermisster Tourist im Gebiet Curral das Freiras unversehrt gefunden",
-    "date": "28.07.2025",
+    "date": "July 28, 2025",
     "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/curralDasFreirasMissing.webp",
     "excerpt": "Ein belgischer Tourist wurde im Gebiet Curral das Freiras gesucht, nachdem er auf einem Wanderweg verschwunden war. Der Mann wurde schließlich unversehrt gefunden und benötigte keine medizinische Versorgung.",
     "content": [
@@ -31,7 +31,7 @@
     {
     "id": 38,
     "title": "Besucher in der Luft im Gebiet Ribeira da Janela steckengeblieben",
-    "date": "25.07.2025",
+    "date": "July 25, 2025",
     "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/ziplineSuspended.webp",
     "excerpt": "Ein Besucher blieb mitten auf der Zipline im Gebiet Ribeira da Janela stehen und hing in der Luft. Das Personal rettete ihn sicher, es gab keine Verletzungen.",
     "content": [
@@ -45,7 +45,7 @@
     {
     "id": 37,
     "title": "Touristin am Aussichtspunkt Ponta do Rosto verletzt",
-    "date": "25.07.2025",
+    "date": "July 25, 2025",
     "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/pontaDoRostoRescue.webp",
     "excerpt": "Eine irische Touristin verletzte sich am Aussichtspunkt Ponta do Rosto, nachdem sie auf einem schwer begehbaren Abschnitt gestürzt war. Sanitäter versorgten sie vor Ort und brachten sie anschließend ins Krankenhaus.",
     "content": [
@@ -59,7 +59,7 @@
     {
     "id": 36,
     "title": "Leiche im Gebiet Canhas gefunden – Polizei schließt Verbrechen aus",
-    "date": "05.07.2025",
+    "date": "July 5, 2025",
     "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/canhasCorpse.webp",
     "excerpt": "Im Gebiet Canhas nahe Ponta do Sol wurde die Leiche eines Mannes entdeckt. Die Behörden gehen davon aus, dass der Körper etwa zwei Wochen dort lag. Die Polizei schloss ein Verbrechen aus.",
     "content": [
@@ -75,7 +75,7 @@
     {
     "id": 35,
     "title": "Tourist vom Wanderweg Levada do Ribeiro Frio gerettet",
-    "date": "04.07.2025",
+    "date": "July 4, 2025",
     "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/levadaRescue.webp",
     "excerpt": "Ein etwa 60-jähriger Tourist hatte am 4. Juli auf dem Levada do Ribeiro Frio nahe dem Posto Florestal einen Unfall. Wegen Rückenschmerzen musste er von Bergrettern geborgen werden.",
     "content": [
@@ -91,7 +91,7 @@
     {
     "id": 34,
     "title": "Französischer Tourist bei Jet-Ski-Unfall nahe Cais 8 verletzt",
-    "date": "04.07.2025",
+    "date": "July 4, 2025",
     "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/jetski.webp",
     "excerpt": "Ein 25-jähriger französischer Staatsbürger erlitt am 4. Juli vor Cais 8 in Funchal einen Jet-Ski-Unfall. Er wurde mit einer Beinverletzung ins Krankenhaus gebracht.",
     "content": [
@@ -107,7 +107,7 @@
     {
     "id": 33,
     "title": "Passagiere beklagten Haltung der Fluggesellschaft nach Umleitung nach Porto Santo",
-    "date": "02.07.2025",
+    "date": "July 2, 2025",
     "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/ryanair.webp",
     "excerpt": "Ein Ryanair-Flug, der ursprünglich nach Funchal gehen sollte, musste am 2. Juni wegen starken Windes in Porto Santo landen. Die Passagiere beklagten die gleichgültige Haltung der Fluggesellschaft.",
     "content": [
@@ -123,7 +123,7 @@
     {
     "id": 32,
     "title": "Sechzehn Menschen im ersten Halbjahr auf Madeira aus dem Meer gerettet",
-    "date": "02.07.2025",
+    "date": "July 2, 2025",
     "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/coastRescue2.webp",
     "excerpt": "Das maritime Rettungszentrum in Funchal führte im ersten Halbjahr 2025 insgesamt 23 Einsätze durch, bei denen 16 Personen aus dem Meer rund um Madeira gerettet wurden.",
     "content": [
@@ -139,7 +139,7 @@
     {
     "id": 31,
     "title": "Starker Wind führte zu 14 Flugannullierungen am Flughafen Madeira",
-    "date": "01.07.2025",
+    "date": "July 1, 2025",
     "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/flightsCancelled.webp",
     "excerpt": "Am Dienstag, den 1. Juli, wurden am internationalen Flughafen Madeira aufgrund starken Windes 14 Flüge gestrichen. Weitere zwölf Maschinen mussten auf anderen Flughäfen landen.",
     "content": [
@@ -154,7 +154,7 @@
     {
     "id": 30,
     "title": "Passagiere aus Madeira warteten in Lissabon drei Stunden auf ihr Gepäck",
-    "date": "01.07.2025",
+    "date": "July 1, 2025",
     "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/luggageLisbon.webp",
     "excerpt": "Am 1. Juli mussten Passagiere, die von Madeira nach Lissabon reisten, fast drei Stunden auf ihr Gepäck warten. Die Verzögerung führte zu Verwirrung und Unzufriedenheit unter den Reisenden.",
     "content": [
