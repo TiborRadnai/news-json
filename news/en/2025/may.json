@@ -3,7 +3,7 @@
     {
     "id": 14,
     "title": "Serious Accident on the Via Rápida",
-    "date": "2025-05-31",
+    "date": "May 31, 2025",
     "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/accidentViaRapida1.webp",
     "excerpt": "This afternoon a serious traffic accident occurred on the Via Rápida, involving two trucks and two cars...",
     "content": [
@@ -16,7 +16,7 @@
     {
     "id": 13,
     "title": "Serious Accident Near Ponta do Pargo",
-    "date": "2025-05-30",
+    "date": "May 30, 2025",
     "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/accidentPontaDoPargo1.webp",
     "excerpt": "Last weekend a serious traffic accident occurred in the Pedregal area, near Ponta do Pargo...",
     "content": [
@@ -29,7 +29,7 @@
     {
     "id": 12,
     "title": "Earthquake Detected South of Câmara de Lobos",
-    "date": "2025-05-29",
+    "date": "May 29, 2025",
     "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/earthquake1.webp",
     "excerpt": "The Portuguese Institute for Sea and Atmosphere (IPMA) registered a 1.7 magnitude earthquake south of Câmara de Lobos last night...",
     "content": [
@@ -41,7 +41,7 @@
     {
     "id": 11,
     "title": "Fire in Água de Pena Area – Successful Intervention Contained the Flames",
-    "date": "2025-05-28",
+    "date": "May 28, 2025",
     "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/fireInMachico.webp",
     "excerpt": "The firefighting operation in the Boavista area of Água de Pena, Machico, was nearly completed on Wednesday...",
     "content": [
@@ -55,7 +55,7 @@
     {
     "id": 10,
     "title": "Young Man and Child Injured in Motorcycle Accident on Estrada da Eira do Serrado",
-    "date": "2025-05-28",
+    "date": "May 28, 2025",
     "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/motocycleAccident.webp",
     "excerpt": "A 23-year-old man and a 10-year-old child were injured last night...",
     "content": [
@@ -68,7 +68,7 @@
     {
     "id": 9,
     "title": "Turbulent Landing at Madeira Airport",
-    "date": "2025-05-27",
+    "date": "May 27, 2025",
     "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/wizz1.webp",
     "excerpt": "A Wizz Air aircraft made a rough landing at Madeira Airport last Sunday...",
     "content": [
@@ -81,7 +81,7 @@
     {
     "id": 8,
     "title": "Tourist Rescued at Ponta de São Lourenço",
-    "date": "2025-05-27",
+    "date": "May 27, 2025",
     "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/lourenco1.webp",
     "excerpt": "A tourist was rescued at Ponta de São Lourenço; strong winds prevented the use of a helicopter...",
     "content": [
@@ -95,7 +95,7 @@
     {
     "id": 7,
     "title": "NAPA: “We Feel the Love of Our Wonderful Island”",
-    "date": "2025-05-15",
+    "date": "May 15, 2025",
     "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/napa2.webp",
     "excerpt": "The band NAPA sent an exclusive message during the program “Basel 2025 – Festival Days”…",
     "content": [
@@ -108,7 +108,7 @@
     {
     "id": 6,
     "title": "Traffic Disruption in Seixal Due to Illegally Parked Rental Cars",
-    "date": "2025-05-14",
+    "date": "May 14, 2025",
     "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/trafficJamSeixal.webp",
     "excerpt": "Traffic in Seixal came to a complete standstill in a situation locals say is nothing new...",
     "content": [
@@ -120,7 +120,7 @@
     {
     "id": 5,
     "title": "Serious Accident on the Expressway – One Person Trapped in Vehicle",
-    "date": "2025-05-13",
+    "date": "May 13, 2025",
     "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/crush1.webp",
     "excerpt": "A serious traffic accident occurred on Tuesday on the expressway near the Caminho do Pilar exit...",
     "content": [
@@ -132,7 +132,7 @@
     {
     "id": 4,
     "title": "“Deslocado” Will Be the 7th Song Tonight",
-    "date": "2025-05-13",
+    "date": "May 13, 2025",
     "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/napa.webp",
     "excerpt": "“Deslocado,” the song by the Madeira band NAPA, will be performed seventh in the first Eurovision semifinal...",
     "content": [
@@ -145,7 +145,7 @@
     {
     "id": 3,
     "title": "Wild Camping Remains a Problem at the Guindaste Viewpoint",
-    "date": "2025-05-12",
+    "date": "May 12, 2025",
     "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/illegalCampers.webp",
     "excerpt": "Wild camping continues to cause growing concern at the Guindaste viewpoint on Madeira Island...",
     "content": [
@@ -161,7 +161,7 @@
     {
     "id": 2,
     "title": "Earthquake Detected Northwest of Porto Santo",
-    "date": "2025-05-12",
+    "date": "May 12, 2025",
     "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/richterScale.webp",
     "excerpt": "Last night a 1.8 magnitude earthquake was recorded northwest of Porto Santo...",
     "content": [
@@ -172,7 +172,7 @@
     {
     "id": 1,
     "title": "Tourists Complain About Lack of Cleanliness at Cabo Girão Viewpoint",
-    "date": "2025-05-10",
+    "date": "May 10, 2025",
     "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/caboGirao.webp",
     "excerpt": "Tourists criticize inadequate cleaning at the Cabo Girão viewpoint...",
     "content": [
