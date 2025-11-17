@@ -1,0 +1,48 @@
+{
+"news": [
+    {
+    "id": 62,
+    "title": "Schweizer Tourist stirbt im Wasser am Strand Praia do Areeiro",
+    "date": "03.11.2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/areeiroBeachFatality.webp",
+    "excerpt": "Ein 74-jähriger Schweizer verlor am Strand Praia do Areeiro sein Leben, nachdem er im Wasser in Schwierigkeiten geraten war und einen Herzstillstand erlitt. Die Rettungsmaßnahmen waren schnell, blieben jedoch erfolglos.",
+    "content": [
+        "Am 3. November um 14:40 Uhr erhielt der Regionale Zivilschutz Madeiras einen Alarm, dass eine Person im Wasser am Strand Praia do Areeiro bei Funchal in Not geraten sei.",
+        "Der 74-jährige Schweizer wurde von Zivilisten, die sich bereits vor Ort befanden, aus dem Wasser gezogen. Sie begannen sofort mit Wiederbelebungsmaßnahmen. Rettungseinheiten – darunter die Seepolizei Funchal, das Portugiesische Rote Kreuz und die EMIR (Schnelle Medizinische Eingreiftruppe) – trafen innerhalb weniger Minuten ein.",
+        "Trotz der Rettungsversuche konnte das Leben des Mannes nicht gerettet werden. Ein EMIR-Arzt bestätigte den Tod vor Ort, und der Fall wurde an die Staatsanwaltschaft Madeira übergeben.",
+        "Die Leiche wurde vom gerichtsmedizinischen Dienst abtransportiert, um die genaue Todesursache festzustellen. Erste Informationen deuteten darauf hin, dass der Mann nach Schwierigkeiten im Wasser einen Herzstillstand erlitt.",
+        "Der Strand Praia do Areeiro ist Teil der Küstenlinie Praia Formosa, die bei Touristen beliebt ist. Das Meer ist hier jedoch oft unberechenbar, besonders im Herbst.",
+        "Die Behörden fordern Einwohner und Besucher erneut auf, Küstengebiete mit besonderer Vorsicht zu betreten und stets die Wetter- und Meeresbedingungen zu berücksichtigen."
+    ]
+    },
+    {
+    "id": 61,
+    "title": "Illegal parkende Fahrzeuge verursachten Verkehrschaos im Tunnel von Ponta do Pargo",
+    "date": "02.11.2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/pontaDoPargoTunnel.webp",
+    "excerpt": "Mehrere Fahrzeuge parkten illegal im Tunnel, der zum Leuchtturm von Ponta do Pargo führt, und verursachten erhebliche Verkehrsbehinderungen. Vor Ort war nur wechselnde Einbahnregelung möglich.",
+    "content": [
+        "Am 1. November parkten am späten Nachmittag mehrere Fahrzeuge illegal im Tunnel, der zum Leuchtturm von Ponta do Pargo im Gebiet Calheta führt. Der Vorfall verursachte erhebliche Verkehrsbehinderungen.",
+        "Nach Angaben der anwesenden Autofahrer verlangsamte das Parken im Tunnel den Verkehr, und auf mehreren Abschnitten war nur wechselnde Einbahnregelung möglich. Dies war besonders gefährlich, da der Tunnel eng ist und eingeschränkte Sicht bietet.",
+        "Bei der Polizei gingen mehrere Meldungen ein, und die Behörden untersuchen, ob Verkehrsverstöße oder Sicherheitsrisiken vorlagen. Sowohl Einheimische als auch Touristen äußerten Besorgnis über die Missachtung der Verkehrsordnung.",
+        "Der Leuchtturm von Ponta do Pargo ist ein beliebtes Ausflugsziel, besonders an Wochenenden und Feiertagen, wenn die Besucherzahlen steigen. Der Tunnel führt direkt zum Aussichtspunkt, sodass illegales Parken nicht nur den Verkehr, sondern auch Rettungswege blockieren kann.",
+        "Die Behörden fordern die Fahrer auf, die Verkehrsregeln einzuhalten, insbesondere auf engen und gefährlichen Abschnitten wie Tunneln. In Zukunft sind verstärkte Kontrollen in der Region zu erwarten."
+    ]
+    },
+    {
+    "id": 60,
+    "title": "Irischer Tourist stirbt beim Versuch, seine Tochter am Strand von Porto da Cruz aus dem Meer zu retten",
+    "date": "01.11.2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/coastRescue2.webp",
+    "excerpt": "Ein 44-jähriger Ire verlor am Strand Maiata in Porto da Cruz sein Leben, als er versuchte, seine 14-jährige Tochter aus dem Meer zu retten. Das Mädchen konnte gerettet werden, doch der Vater überlebte nicht.",
+    "content": [
+        "Am 1. November kam es am Nachmittag am Strand Maiata in Porto da Cruz zu einem tragischen Unfall. Ein 44-jähriger irischer Tourist sprang ins Meer, um seine 14-jährige Tochter zu retten, die zwischen den Wellen in Gefahr geraten war.",
+        "Um 14:55 Uhr ging bei den Behörden ein Alarm ein, dass eine Person im Wasser in Not sei. Daraufhin wurden sofort Einheiten der Seepolizei Funchal, von SANAS Madeira (Maritimer Rettungsdienst) und der Feuerwehr Machico entsandt.",
+        "Das Mädchen konnte gerettet und ins Krankenhaus gebracht werden, da der Vorfall eine schwere psychische Belastung für sie darstellte. Der Vater geriet jedoch während der Rettung selbst in Schwierigkeiten und konnte nicht mehr ans Ufer zurückkehren.",
+        "Die Einsatzkräfte von SANAS Madeira zogen den Mann aus dem Wasser und begannen sofort mit Wiederbelebungsmaßnahmen, doch sein Leben konnte nicht gerettet werden. Der Tod wurde offiziell vor Ort festgestellt.",
+        "Die Tragödie machte erneut auf die Gefahren der Küstenlinie der Insel aufmerksam, insbesondere im Herbst-Winter, wenn die Wellen oft unberechenbar und stark sind.",
+        "Die Behörden sprachen der Familie des Opfers ihr Beileid aus und forderten Einwohner und Touristen auf, Küstengebiete mit besonderer Vorsicht zu betreten, insbesondere wenn Warnungen bestehen."
+    ]
+    }
+]    
+}

@@ -1,0 +1,170 @@
+{
+"news": [
+    {
+    "id": 40,
+    "title": "Airport Issues Warning Due to Adverse Weather",
+    "date": "July 31, 2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/madeiraAirportAlert.webp",
+    "excerpt": "The airport issued a warning about expected windy weather that may affect air travel. Passengers are advised to check their flight status before departure.",
+    "content": [
+        "The airport has issued a warning due to expected adverse weather conditions that may impact air travel.",
+        "According to meteorological forecasts, strong winds are expected, particularly in the eastern and western parts of the island, as well as in the Porto Santo area.",
+        "Wind speeds may reach up to 70 km/h, which could cause delays or flight cancellations.",
+        "The airport is asking passengers to check the current status of their flights before departure.",
+        "The news was originally reported in the Madeira press."
+    ]
+    },
+    {
+    "id": 39,
+    "title": "Missing Tourist Found Safe in Curral das Freiras Area",
+    "date": "July 28, 2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/curralDasFreirasMissing.webp",
+    "excerpt": "A Belgian tourist was searched for in the Curral das Freiras area after disappearing on a hiking trail. The man was eventually found safe and did not require medical assistance.",
+    "content": [
+        "A Belgian tourist was searched for in the Curral das Freiras area after disappearing during a hike.",
+        "The search began in the afternoon, involving five firefighters and two vehicles from the Câmara de Lobos volunteer unit.",
+        "The 46-year-old man was found in the evening, unharmed and without the need for medical assistance.",
+        "Local forestry staff also participated in the search.",
+        "The news was originally reported in the Madeira press."
+    ]
+    },
+    {
+    "id": 38,
+    "title": "Visitor Stuck Mid-Air in Ribeira da Janela Area",
+    "date": "July 25, 2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/ziplineSuspended.webp",
+    "excerpt": "A visitor stopped in the middle of the zipline in Ribeira da Janela and was left suspended in mid-air. The staff safely rescued the person, and no injuries occurred.",
+    "content": [
+        "A visitor stopped in the middle of the zipline between Ribeira da Janela and Fajã de Barro, remaining suspended in mid-air.",
+        "One of the staff members reached the stranded person and safely guided them back to the starting point.",
+        "The rescue was carried out quickly and professionally, with no injuries reported.",
+        "The zipline is a popular adventure activity, and according to the operators, such incidents are rare, but the staff is prepared for all situations.",
+        "The news was originally reported in the Madeira press."
+    ]
+    },
+    {
+    "id": 37,
+    "title": "Tourist Injured at Ponta do Rosto Viewpoint",
+    "date": "July 25, 2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/pontaDoRostoRescue.webp",
+    "excerpt": "An Irish tourist was injured at the Ponta do Rosto viewpoint after falling on a difficult section. Paramedics treated her on site before transporting her to hospital.",
+    "content": [
+        "An Irish tourist was injured at the Ponta do Rosto viewpoint after falling on a rocky, difficult section.",
+        "The woman suffered a leg injury; paramedics treated her at the scene before transporting her to a medical facility.",
+        "The area around the viewpoint is a popular hiking destination, but some parts of the terrain can be dangerous, especially in windy conditions.",
+        "Authorities are urging visitors to exercise extra caution when walking along hiking trails.",
+        "The news was originally reported in the Madeira press."
+    ]
+    },
+    {
+    "id": 36,
+    "title": "Body Found in Canhas Area – Police Rule Out Crime",
+    "date": "July 5, 2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/canhasCorpse.webp",
+    "excerpt": "A man’s body was discovered in the Canhas area near Ponta do Sol. Authorities believe the body had been there for about two weeks. Police ruled out foul play.",
+    "content": [
+        "In early June, a man’s body was found in a hard-to-reach area of Canhas, near Ponta do Sol.",
+        "The body was discovered by a passerby who immediately alerted the authorities. Police and forensic technicians arrived at the scene.",
+        "Based on the condition of the body, experts believe the deceased had been at the site for at least 15 days.",
+        "The on-site investigation found no evidence of foul play. Police officially ruled out the possibility of a crime.",
+        "The man’s identity was later confirmed, and authorities notified his relatives.",
+        "The circumstances of the death are still under investigation, but current information does not suggest criminal involvement.",
+        "The news was originally reported in the Madeira press."
+    ]
+    },
+    {
+    "id": 35,
+    "title": "Tourist Rescued from Levada do Ribeiro Frio Trail",
+    "date": "July 4, 2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/levadaRescue.webp",
+    "excerpt": "A tourist around 60 years old suffered an accident on July 4 along the Levada do Ribeiro Frio near Posto Florestal. He had to be rescued by mountain rescuers due to back pain.",
+    "content": [
+        "On Friday, an older man fell while hiking along a section of the Levada do Ribeiro Frio, not far from the Posto Florestal building.",
+        "The tourist fell from his own height and, due to back pain, was unable to continue his hike.",
+        "Following the accident, the Machico municipal fire department’s mountain rescue unit was alerted and quickly arrived at the scene.",
+        "The rescue team provided first aid to the man and then began transporting him to the nearest accessible road.",
+        "There, an ambulance was waiting to take him to the emergency department of Dr. Nélio Mendonça Hospital for further examination.",
+        "The rescue was carried out in a coordinated manner, ensuring that the tourist received timely medical care.",
+        "The news was originally reported in the Madeira press."
+    ]
+    },
+    {
+    "id": 34,
+    "title": "French Tourist Injured in Jet-Ski Accident Near Cais 8",
+    "date": "July 4, 2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/jetski.webp",
+    "excerpt": "A 25-year-old French citizen was injured on July 4 in the waters off Cais 8 in Funchal while riding a jet ski. He was taken to hospital with a leg injury.",
+    "content": [
+        "On Friday afternoon, a French tourist was involved in a jet-ski accident in the waters between Cais 8 and Praça do Povo, near Funchal.",
+        "The 25-year-old man reportedly collided with another jet ski, injuring his left leg in the accident.",
+        "Despite the injury, he managed to return to shore, where he called for help via the 112 emergency line.",
+        "An emergency unit from the Cruz Vermelha Portuguesa (Portuguese Red Cross) arrived at Cais 8 and provided first aid to the man.",
+        "He was then transported by ambulance to the emergency department of Dr. Nélio Mendonça Hospital, where his leg injury was treated.",
+        "According to hospital sources, the tourist’s condition was stable, and he was expected to be discharged later that evening.",
+        "The news was originally reported in the Madeira press."
+    ]
+    },
+    {
+    "id": 33,
+    "title": "Passengers Complain About Airline’s Attitude After Flight Diverted to Porto Santo",
+    "date": "July 2, 2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/ryanair.webp",
+    "excerpt": "A Ryanair flight originally bound for Funchal was forced to land in Porto Santo on June 2 due to strong winds. Passengers complained about the airline’s indifferent attitude.",
+    "content": [
+        "On June 2, a Ryanair flight operating on the Porto–Funchal route was unable to land in Madeira due to strong winds and was diverted to Porto Santo airport.",
+        "The plane arrived in Porto Santo after midnight, where passengers, following a long wait, realized that the airline was not providing adequate assistance.",
+        "One passenger traveling with a minor child reported that they received neither food nor water, and the little water offered came from the restroom, poured into cups.",
+        "In a message, the airline stated that it could not provide accommodation and asked passengers to find lodging themselves, promising reimbursement later.",
+        "Since nearly all accommodations on the island were fully booked, many passengers were forced to sleep on the airport floor, where staff provided mattresses, blankets, and pillows.",
+        "Passengers highlighted that airport staff and police behaved helpfully, while they felt no meaningful support from the airline.",
+        "The news was originally reported in the Madeira press."
+    ]
+    },
+    {
+    "id": 32,
+    "title": "Sixteen People Rescued from the Sea in Madeira During First Half of the Year",
+    "date": "July 2, 2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/coastRescue2.webp",
+    "excerpt": "The Funchal maritime rescue center carried out 23 operations in the first six months of 2025, rescuing a total of 16 people from the sea around Madeira.",
+    "content": [
+        "According to the Portuguese Navy, the Funchal Maritime Search and Rescue Coordination Center (MRSC Funchal) directed 23 rescue operations between January and June in the region.",
+        "During these operations, a total of 16 people were rescued from the sea after facing various emergencies in coastal waters.",
+        "The successful interventions were made possible thanks to the cooperation of several organizations, including the navy, the National Maritime Authority, the Portuguese Air Force, and emergency medical services.",
+        "The INEM maritime emergency center (CODU-MAR) played a key role, along with regional and national civil protection, fire departments, and port authorities.",
+        "At the national level, the Lisbon rescue center handled 149 maritime incidents, while the Ponta Delgada center coordinated 76 cases, assisting more than 200 additional people.",
+        "Authorities emphasize that prevention and rapid alert are crucial for effectively managing maritime accidents.",
+        "The news was originally reported in the Madeira press."
+    ]
+    },
+    {
+    "id": 31,
+    "title": "Strong Winds Cause 14 Flight Cancellations at Madeira Airport",
+    "date": "July 1, 2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/flightsCancelled.webp",
+    "excerpt": "On Tuesday, July 1, fourteen flights were canceled at Madeira International Airport due to strong winds. Another twelve planes were forced to land at alternative airports.",
+    "content": [
+        "On Tuesday, operations at Madeira International Airport were significantly affected by strong winds, leading to multiple flight cancellations and diversions.",
+        "A total of 14 flights were canceled, including those bound for Wrocław, Warsaw, Katowice, Poznań, Gran Canaria, Lisbon, Bilbao, and Madrid.",
+        "In addition to the cancellations, 12 aircraft were unable to land in Madeira and were diverted to alternative airports such as Porto Santo, Tenerife, Lisbon, or Faro.",
+        "According to the meteorological station, the strongest gusts reached 73 km/h, making safe landings and takeoffs extremely difficult.",
+        "The airport operator urged passengers to check the status of their flights before departure, as adverse weather conditions may persist.",
+        "The news was originally reported in the Madeira press."
+    ]
+    },
+    {
+    "id": 30,
+    "title": "Passengers from Madeira Waited Three Hours for Luggage in Lisbon",
+    "date": "July 1, 2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/luggageLisbon.webp",
+    "excerpt": "On July 1, passengers arriving in Lisbon from Madeira had to wait nearly three hours for their luggage. The delay caused confusion and dissatisfaction among travelers.",
+    "content": [
+        "A TAP flight, originally scheduled to depart Madeira at 9:50 p.m., took off more than an hour late due to weather conditions.",
+        "After the plane landed, passengers received no information about their luggage for a long time and waited more than an hour and a half without updates.",
+        "Eventually, after several complaints, it was revealed that the baggage had been left in the airport’s external area, in the aircraft parking zone.",
+        "The total waiting time reached three hours, which many found frustrating and unacceptable, especially families with children and elderly passengers.",
+        "One passenger ironically remarked: “It’s faster to get from Madeira to Lisbon than to find your luggage at the capital’s airport.”",
+        "The news was originally reported in the Madeira press."
+    ]
+    }
+]
+}

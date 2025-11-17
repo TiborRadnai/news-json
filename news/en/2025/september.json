@@ -1,0 +1,33 @@
+{
+"news": [
+    {
+    "id": 54,
+    "title": "Lobo Marinho to Operate Extra Ferry Services on September 21",
+    "date": "September 9, 2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/loboMarinho.webp",
+    "excerpt": "On Sunday, September 21 – the eve of the autumn equinox – Porto Santo Line will operate extra ferry services with the Lobo Marinho, offering more opportunities for passengers to visit Porto Santo.",
+    "content": [
+        "On September 9, Porto Santo Line announced that the Lobo Marinho ferry will operate extra services on Sunday, September 21, the eve of the autumn equinox.",
+        "The initiative aims to provide alternative options for residents and tourists to visit Porto Santo Island, especially as the season draws to a close.",
+        "The schedule for that day is as follows: departures from Funchal to Porto Santo at 08:00 and 16:30 (the latter being an extra service), while return trips from Porto Santo to Funchal will be at 13:00 (extra service) and 20:00.",
+        "The company advises interested passengers to contact Porto Santo Line’s customer service by phone, WhatsApp, or email, available Monday to Sunday between 9:00 and 19:00 (closed on public holidays).",
+        "The extra services create an opportunity for both locals and visitors to enjoy Porto Santo’s natural beauty and tranquil atmosphere at the start of the autumn season."
+    ]
+    },
+    {
+    "id": 53,
+    "title": "Quercus Expresses Concern Over Condition of Fanal Nature Reserve",
+    "date": "September 9, 2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/fanalPreservation.webp",
+    "excerpt": "According to Quercus Madeira, the Fanal nature reserve is under severe environmental pressure, threatening the area’s ecological balance in the long term. The organization is urging urgent measures to protect the site.",
+    "content": [
+        "On September 9, the regional branch of the environmental organization Quercus issued a statement highlighting the deteriorating condition of the Fanal nature reserve, worsened by excessive visitor numbers and damage caused by free-grazing animals.",
+        "The organization noted that the young shoots of centuries-old native laurel trees are regularly damaged by free-grazing cattle, hindering the forest’s natural regeneration and threatening the ecological balance of the Laurisilva forest.",
+        "Quercus criticized the responsible authorities – particularly the Institute for Forests and Nature Conservation (IFCN) – for failing to restrict animal access to the protected area and for not taking steps to end grazing.",
+        "The statement also pointed out that the growing number of visitors is overloading existing parking areas, with vehicles often stopping illegally along roadsides, putting additional pressure on the soil.",
+        "Tourists frequently explore the area without designated trails, often climbing laurel trees or standing in root zones, leading to soil compaction, reduced water infiltration, and vegetation loss.",
+        "Quercus called on the IFCN to define the site’s visitor capacity, introduce controlled access, and urgently stop grazing to preserve Fanal’s natural values for future generations."
+    ]
+    }
+]
+}

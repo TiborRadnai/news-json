@@ -1,0 +1,170 @@
+{
+"news": [
+    {
+    "id": 40,
+    "title": "Flughafen gibt Warnung wegen ungünstiger Wetterbedingungen heraus",
+    "date": "31.07.2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/madeiraAirportAlert.webp",
+    "excerpt": "Der Flughafen hat eine Warnung wegen erwarteter starker Winde herausgegeben, die den Luftverkehr beeinträchtigen könnten. Passagiere werden gebeten, vor der Abreise den Status ihrer Flüge zu überprüfen.",
+    "content": [
+        "Der Flughafen hat eine Warnung aufgrund erwarteter ungünstiger Wetterbedingungen herausgegeben, die den Luftverkehr beeinträchtigen könnten.",
+        "Laut meteorologischen Prognosen werden starke Winde erwartet, insbesondere im Osten und Westen der Insel sowie im Gebiet von Porto Santo.",
+        "Die Windgeschwindigkeit könnte bis zu 70 km/h erreichen, was zu Verspätungen oder Flugausfällen führen kann.",
+        "Der Flughafen bittet die Passagiere, vor der Abreise den aktuellen Status ihrer Flüge zu überprüfen.",
+        "Die Meldung erschien ursprünglich in der madeirischen Presse."
+    ]
+    },
+    {
+    "id": 39,
+    "title": "Vermisster Tourist im Gebiet Curral das Freiras unversehrt gefunden",
+    "date": "28.07.2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/curralDasFreirasMissing.webp",
+    "excerpt": "Ein belgischer Tourist wurde im Gebiet Curral das Freiras gesucht, nachdem er auf einem Wanderweg verschwunden war. Der Mann wurde schließlich unversehrt gefunden und benötigte keine medizinische Versorgung.",
+    "content": [
+        "Ein belgischer Tourist wurde im Gebiet Curral das Freiras gesucht, nachdem er während einer Wanderung verschwunden war.",
+        "Die Suche begann am Nachmittag und umfasste fünf Feuerwehrleute sowie zwei Fahrzeuge der Freiwilligen Einheit von Câmara de Lobos.",
+        "Der 46-jährige Mann wurde am Abend gefunden – unverletzt und ohne Bedarf an medizinischer Versorgung.",
+        "Auch Mitarbeiter der örtlichen Forstverwaltung beteiligten sich an der Suche.",
+        "Die Meldung erschien ursprünglich in der madeirischen Presse."
+    ]
+    },
+    {
+    "id": 38,
+    "title": "Besucher in der Luft im Gebiet Ribeira da Janela steckengeblieben",
+    "date": "25.07.2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/ziplineSuspended.webp",
+    "excerpt": "Ein Besucher blieb mitten auf der Zipline im Gebiet Ribeira da Janela stehen und hing in der Luft. Das Personal rettete ihn sicher, es gab keine Verletzungen.",
+    "content": [
+        "Ein Besucher blieb mitten auf der Zipline zwischen Ribeira da Janela und Fajã de Barro stehen und hing in der Luft.",
+        "Ein Mitglied des Personals erreichte die in der Mitte der Strecke blockierte Person und führte sie sicher zurück zum Ausgangspunkt.",
+        "Die Rettung verlief schnell und professionell, es gab keine Verletzungen.",
+        "Die Zipline ist ein beliebtes Abenteuerprogramm, und laut den Betreibern sind solche Vorfälle selten, doch das Personal ist auf jede Situation vorbereitet.",
+        "Die Meldung erschien ursprünglich in der madeirischen Presse."
+    ]
+    },
+    {
+    "id": 37,
+    "title": "Touristin am Aussichtspunkt Ponta do Rosto verletzt",
+    "date": "25.07.2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/pontaDoRostoRescue.webp",
+    "excerpt": "Eine irische Touristin verletzte sich am Aussichtspunkt Ponta do Rosto, nachdem sie auf einem schwer begehbaren Abschnitt gestürzt war. Sanitäter versorgten sie vor Ort und brachten sie anschließend ins Krankenhaus.",
+    "content": [
+        "Eine irische Touristin verletzte sich am Aussichtspunkt Ponta do Rosto, nachdem sie auf einem felsigen, schwer begehbaren Abschnitt gestürzt war.",
+        "Die Frau erlitt eine Beinverletzung; Sanitäter versorgten sie vor Ort und brachten sie anschließend in eine medizinische Einrichtung.",
+        "Die Umgebung des Aussichtspunkts ist ein beliebtes Ausflugsziel, doch Teile des Geländes können gefährlich sein, insbesondere bei windigem Wetter.",
+        "Die Behörden fordern Besucher auf, beim Begehen der Wanderwege besondere Vorsicht walten zu lassen.",
+        "Die Meldung erschien ursprünglich in der madeirischen Presse."
+    ]
+    },
+    {
+    "id": 36,
+    "title": "Leiche im Gebiet Canhas gefunden – Polizei schließt Verbrechen aus",
+    "date": "05.07.2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/canhasCorpse.webp",
+    "excerpt": "Im Gebiet Canhas nahe Ponta do Sol wurde die Leiche eines Mannes entdeckt. Die Behörden gehen davon aus, dass der Körper etwa zwei Wochen dort lag. Die Polizei schloss ein Verbrechen aus.",
+    "content": [
+        "Anfang Juni wurde im schwer zugänglichen Gebiet von Canhas, nahe Ponta do Sol, die Leiche eines Mannes gefunden.",
+        "Ein Passant entdeckte den Körper und alarmierte sofort die Behörden. Polizei und Kriminaltechniker trafen am Fundort ein.",
+        "Aufgrund des Zustands der Leiche gehen Experten davon aus, dass der Verstorbene mindestens 15 Tage dort gelegen hatte.",
+        "Bei der Untersuchung vor Ort wurden keine Hinweise auf ein Verbrechen gefunden. Die Polizei schloss offiziell Fremdeinwirkung aus.",
+        "Die Identität des Mannes konnte später festgestellt werden, und die Behörden informierten die Angehörigen.",
+        "Die Umstände des Todes werden weiterhin untersucht, doch die aktuellen Erkenntnisse deuten nicht auf ein Verbrechen hin.",
+        "Die Meldung erschien ursprünglich in der madeirischen Presse."
+    ]
+    },
+    {
+    "id": 35,
+    "title": "Tourist vom Wanderweg Levada do Ribeiro Frio gerettet",
+    "date": "04.07.2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/levadaRescue.webp",
+    "excerpt": "Ein etwa 60-jähriger Tourist hatte am 4. Juli auf dem Levada do Ribeiro Frio nahe dem Posto Florestal einen Unfall. Wegen Rückenschmerzen musste er von Bergrettern geborgen werden.",
+    "content": [
+        "Am Freitag stürzte ein älterer Mann beim Wandern auf einem Abschnitt des Levada do Ribeiro Frio, unweit des Gebäudes Posto Florestal.",
+        "Der Tourist stürzte aus eigener Höhe und konnte aufgrund von Rückenschmerzen seine Wanderung nicht fortsetzen.",
+        "Nach dem Unfall wurde die Bergrettungseinheit der Gemeindefeuerwehr Machico alarmiert, die schnell am Ort eintraf.",
+        "Das Rettungsteam leistete Erste Hilfe und begann anschließend mit dem Transport des Mannes zur nächstgelegenen Straße.",
+        "Dort wartete ein Krankenwagen, der ihn zur Notaufnahme des Dr.-Nélio-Mendonça-Krankenhauses brachte, wo weitere Untersuchungen erfolgten.",
+        "Die Rettung verlief koordiniert und stellte sicher, dass der Tourist rechtzeitig medizinisch versorgt wurde.",
+        "Die Meldung erschien ursprünglich in der madeirischen Presse."
+    ]
+    },
+    {
+    "id": 34,
+    "title": "Französischer Tourist bei Jet-Ski-Unfall nahe Cais 8 verletzt",
+    "date": "04.07.2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/jetski.webp",
+    "excerpt": "Ein 25-jähriger französischer Staatsbürger erlitt am 4. Juli vor Cais 8 in Funchal einen Jet-Ski-Unfall. Er wurde mit einer Beinverletzung ins Krankenhaus gebracht.",
+    "content": [
+        "Am Freitagnachmittag erlitt ein französischer Tourist einen Jet-Ski-Unfall im Meer zwischen Cais 8 und Praça do Povo nahe Funchal.",
+        "Der 25-jährige Mann kollidierte offenbar mit einem anderen Jet-Ski und verletzte dabei sein linkes Bein.",
+        "Trotz der Verletzung gelang es ihm, zum Ufer zurückzukehren, wo er über die Notrufnummer 112 Hilfe anforderte.",
+        "Eine Notfalleinheit des Cruz Vermelha Portuguesa (Portugiesisches Rotes Kreuz) traf am Cais 8 ein und leistete Erste Hilfe.",
+        "Anschließend wurde der Verletzte mit einem Krankenwagen in die Notaufnahme des Dr.-Nélio-Mendonça-Krankenhauses gebracht, wo seine Beinverletzung behandelt wurde.",
+        "Nach Angaben aus dem Krankenhaus war der Zustand des Touristen stabil, und er konnte voraussichtlich noch am selben Abend entlassen werden.",
+        "Die Meldung erschien ursprünglich in der madeirischen Presse."
+    ]
+    },
+    {
+    "id": 33,
+    "title": "Passagiere beklagten Haltung der Fluggesellschaft nach Umleitung nach Porto Santo",
+    "date": "02.07.2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/ryanair.webp",
+    "excerpt": "Ein Ryanair-Flug, der ursprünglich nach Funchal gehen sollte, musste am 2. Juni wegen starken Windes in Porto Santo landen. Die Passagiere beklagten die gleichgültige Haltung der Fluggesellschaft.",
+    "content": [
+        "Am 2. Juni konnte ein Ryanair-Flug auf der Strecke Porto–Funchal aufgrund starken Windes nicht in Madeira landen und wurde zum Flughafen Porto Santo umgeleitet.",
+        "Das Flugzeug erreichte Porto Santo erst nach Mitternacht, wo die Passagiere nach langer Wartezeit feststellen mussten, dass die Fluggesellschaft keine angemessene Unterstützung bot.",
+        "Ein Passagier, der mit einem minderjährigen Kind reiste, berichtete, dass weder Essen noch Wasser bereitgestellt wurden und das wenige Wasser, das angeboten wurde, aus dem Waschraum stammte und in Becher gefüllt war.",
+        "Die Fluggesellschaft teilte in einer Nachricht mit, dass sie keine Unterkunft bereitstellen könne, und forderte die Passagiere auf, selbst eine Unterkunft zu finden, die Kosten würden später erstattet.",
+        "Da auf der Insel fast alle Unterkünfte ausgebucht waren, mussten viele Passagiere auf dem Boden des Flughafens schlafen, wo das Personal Matratzen, Decken und Kissen zur Verfügung stellte.",
+        "Die Passagiere hoben hervor, dass sich die Flughafenmitarbeiter und die Polizei hilfsbereit verhielten, während sie von der Fluggesellschaft keine nennenswerte Unterstützung erfuhren.",
+        "Die Meldung erschien ursprünglich in der madeirischen Presse."
+    ]
+    },
+    {
+    "id": 32,
+    "title": "Sechzehn Menschen im ersten Halbjahr auf Madeira aus dem Meer gerettet",
+    "date": "02.07.2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/coastRescue2.webp",
+    "excerpt": "Das maritime Rettungszentrum in Funchal führte im ersten Halbjahr 2025 insgesamt 23 Einsätze durch, bei denen 16 Personen aus dem Meer rund um Madeira gerettet wurden.",
+    "content": [
+        "Nach Angaben der portugiesischen Marine leitete das Maritime Such- und Rettungskoordinationszentrum Funchal (MRSC Funchal) zwischen Januar und Juni 23 Rettungseinsätze in der Region.",
+        "Dabei konnten insgesamt 16 Personen aus dem Meer gerettet werden, die in verschiedenen Notlagen in den Küstengewässern geraten waren.",
+        "Die erfolgreichen Einsätze waren der Zusammenarbeit mehrerer Organisationen zu verdanken, darunter die Marine, die Nationale Seebehörde, die portugiesische Luftwaffe und die medizinischen Notdienste.",
+        "Eine Schlüsselrolle spielte das maritime Notfallzentrum des INEM (CODU-MAR) sowie die regionale und nationale Zivilschutzbehörde, Feuerwehren und Hafenbehörden.",
+        "Auf nationaler Ebene bearbeitete das Rettungszentrum in Lissabon 149 maritime Vorfälle, während das Zentrum in Ponta Delgada 76 Fälle koordinierte, bei denen mehr als 200 weitere Menschen Hilfe erhielten.",
+        "Die Behörden betonen, dass Prävention und schnelle Alarmierung entscheidend für die wirksame Bewältigung von Seeunfällen sind.",
+        "Die Meldung erschien ursprünglich in der madeirischen Presse."
+    ]
+    },
+    {
+    "id": 31,
+    "title": "Starker Wind führte zu 14 Flugannullierungen am Flughafen Madeira",
+    "date": "01.07.2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/flightsCancelled.webp",
+    "excerpt": "Am Dienstag, den 1. Juli, wurden am internationalen Flughafen Madeira aufgrund starken Windes 14 Flüge gestrichen. Weitere zwölf Maschinen mussten auf anderen Flughäfen landen.",
+    "content": [
+        "Am Dienstag wurde der Betrieb des internationalen Flughafens Madeira erheblich durch starken Wind beeinträchtigt, was zu mehreren Flugannullierungen und Umleitungen führte.",
+        "Insgesamt wurden 14 Flüge gestrichen, darunter Verbindungen nach Breslau, Warschau, Kattowitz, Posen, Gran Canaria, Lissabon, Bilbao und Madrid.",
+        "Zusätzlich zu den Annullierungen konnten 12 Flugzeuge nicht in Madeira landen und wurden auf alternative Flughäfen wie Porto Santo, Teneriffa, Lissabon oder Faro umgeleitet.",
+        "Nach Angaben der meteorologischen Station erreichten die stärksten Böen 73 km/h, was sichere Starts und Landungen erheblich erschwerte.",
+        "Der Flughafenbetreiber forderte die Passagiere auf, vor der Abreise den Status ihrer Flüge zu überprüfen, da die ungünstigen Wetterbedingungen weiterhin bestehen könnten.",
+        "Die Meldung erschien ursprünglich in der madeirischen Presse."
+    ]
+    },
+    {
+    "id": 30,
+    "title": "Passagiere aus Madeira warteten in Lissabon drei Stunden auf ihr Gepäck",
+    "date": "01.07.2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/luggageLisbon.webp",
+    "excerpt": "Am 1. Juli mussten Passagiere, die von Madeira nach Lissabon reisten, fast drei Stunden auf ihr Gepäck warten. Die Verzögerung führte zu Verwirrung und Unzufriedenheit unter den Reisenden.",
+    "content": [
+        "Ein TAP-Flug, der ursprünglich um 21:50 Uhr von Madeira starten sollte, hob aufgrund der Wetterbedingungen mehr als eine Stunde verspätet ab.",
+        "Nach der Landung erhielten die Passagiere lange Zeit keine Informationen über ihr Gepäck und warteten mehr als anderthalb Stunden ohne Auskunft.",
+        "Schließlich stellte sich nach mehreren Beschwerden heraus, dass das Gepäck im Außenbereich des Flughafens, in der Parkzone der Flugzeuge, zurückgeblieben war.",
+        "Die gesamte Wartezeit erreichte drei Stunden, was viele als frustrierend und inakzeptabel empfanden – insbesondere Familien mit Kindern und ältere Reisende.",
+        "Ein Passagier bemerkte ironisch: „Es ist schneller, von Madeira nach Lissabon zu fliegen, als das Gepäck am Hauptstadtflughafen zu finden.“",
+        "Die Meldung erschien ursprünglich in der madeirischen Presse."
+    ]
+    }
+]
+}

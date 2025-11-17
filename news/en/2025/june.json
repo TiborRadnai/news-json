@@ -1,0 +1,224 @@
+{
+ "news": [
+    {
+    "id": 29,
+    "title": "German Tourist Rescued Near Cais do Sardinha",
+    "date": "June 30, 2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/coastRescue.webp",
+    "excerpt": "A German woman required rescue on June 30 near Cais do Sardinha after being injured during a hike. The operation was carried out by the SANAS Madeira unit.",
+    "content": [
+        "A German tourist, approximately 60 years old, had an accident on the Ponta de São Lourenço hiking trail, injuring her right leg.",
+        "The rescue team arrived by boat near Cais do Sardinha, treated the injured woman, and safely transported her to shore.",
+        "Firefighters provided care at the site and then transferred her to the Dreams Madeira Resort harbor, from where she was taken by ambulance for further medical treatment.",
+        "The rescue operation was coordinated by SANAS Madeira, in cooperation with the Regional Civil Protection Service and the Funchal Maritime Rescue Coordination Center.",
+        "The intervention was swift and well-coordinated, ensuring that the tourist received the necessary care in time.",
+        "The news was reported in the Madeira press."
+    ]
+    },
+    {
+    "id": 28,
+    "title": "Tourist Injured in Bicycle Accident in Via Expresso Tunnel",
+    "date": "June 30, 2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/bycicleAccident2.webp",
+    "excerpt": "On June 30, a 33-year-old tourist was injured in one of the Via Expresso tunnels while cycling. The man was taken to hospital with minor injuries...",
+    "content": [
+        "On Monday afternoon, a 33-year-old foreign cyclist was injured in the Via Expresso Pinheiro tunnel, in the Santana area.",
+        "The man lost control of his bicycle and fell inside the tunnel. The circumstances of the accident remain unclear.",
+        "Two units from the Santana Volunteer Fire Department arrived at the scene, provided first aid, and transported the injured man to hospital in stable condition.",
+        "He suffered minor injuries to his upper limbs and was treated at the emergency department of Dr. Nélio Mendonça Hospital.",
+        "During the rescue, the Via Expresso technical team and the police were also present to ensure traffic safety and document the incident.",
+        "The case once again highlights the importance of cycling safety, particularly in tunnels and on busy road sections.",
+        "The article was originally reported in the Madeira press."
+    ]
+    },
+    {
+    "id": 27,
+    "title": "Crowds Filled Ribeira Brava at Nininho Vaz Maia Concert",
+    "date": "June 29, 2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/nininhoRibeira.webp",
+    "excerpt": "On June 29, a huge crowd gathered in the center of Ribeira Brava, where Nininho Vaz Maia performed a major concert. The event was one of the highlights of the summer program...",
+    "content": [
+        "On Saturday evening, the streets of Ribeira Brava came alive with music and energy as Portuguese singer Nininho Vaz Maia took the stage in the town’s main square. The concert was part of the local summer festival and attracted thousands of visitors from the region as well as tourists.",
+        "During the event, the audience sang along to the artist’s most popular hits, while impressive light and sound effects enhanced the experience. According to the organizers, the concert drew even more interest than expected and received extremely positive feedback from participants.",
+        "City officials emphasized that the event was not only culturally significant but also boosted the local hospitality and tourism economy. Nearby restaurants and bars were full, and accommodations had been sold out days in advance.",
+        "The concert was held under heightened security measures, with police and firefighters ensuring the smooth running of the event. No incidents or accidents were reported.",
+        "Organizers have already announced that they plan to host similarly large-scale events in next year’s summer program, further strengthening Ribeira Brava’s cultural role on the island.",
+        "The article was originally reported in the Madeira press."
+    ]
+    },
+    {
+    "id": 26,
+    "title": "Heatwave in Madeira: Temperatures Rose Above 28°C on Saturday",
+    "date": "June 28, 2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/heatwaveMadeira.webp",
+    "excerpt": "On the last Saturday of June, temperatures exceeded 28°C in several Madeira towns. The highest value was recorded in the Calheta region, at 28.2°C...",
+    "content": [
+        "On June 28, Saturday, Madeira Island was hit by extreme heat: the Prazeres meteorological station in Calheta recorded a peak of 28.2°C, one of the highest temperatures of the year in the region.",
+        "Throughout the day, temperatures rose quickly: from morning values of 20–24°C to nearly 5°C higher by the afternoon. The heat affected not only Calheta but also other towns: Pico Alto registered 27.1°C, Monte and Funchal 26.5°C, Santa Cruz 26.1°C, and São Vicente 25.8°C.",
+        "In the capital, Funchal, significant temperature differences were observed: while the Lido district measured 24.4°C at 5 p.m., the Lazareto station recorded 26.5°C at the same time.",
+        "According to meteorological forecasts, the heatwave will continue on Sunday, with temperatures possibly reaching 30°C. Authorities are urging residents and tourists to avoid direct sunlight during midday hours, drink plenty of fluids, and watch for symptoms of heatstroke.",
+        "The article was originally reported in the Madeira press."
+    ]
+    },
+    {
+    "id": 25,
+    "title": "Child Taken to Hospital After Fall in Câmara de Lobos Harbor",
+    "date": "June 20, 2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/childFallCamara.webp",
+    "excerpt": "A 12-year-old girl was hospitalized after falling two to three meters in the Câmara de Lobos harbor. Paramedics quickly arrived and transported her to the emergency department in Funchal...",
+    "content": [
+        "On the afternoon of June 20, a 12-year-old girl had an accident in the Câmara de Lobos harbor area when—under still unclear circumstances—she lost her balance and fell about two to three meters onto the docking platform.",
+        "After the fall, the child complained of severe pain in her arm and lower back, suggesting possible fractures or internal injuries. Units from the Câmara de Lobos Volunteer Fire Department quickly arrived, provided first aid, and transported her to Dr. Nélio Mendonça Hospital in Funchal.",
+        "The accident once again highlights the importance of safety in coastal infrastructure, especially in areas frequently visited by children. The incident caused concern among locals and visitors, with many calling for stronger protective barriers and warning signs.",
+        "Authorities are currently investigating the exact circumstances of the accident and are expected to take measures to prevent similar cases in the future.",
+        "The article was originally reported in the Madeira press."
+    ]
+    },
+    {
+    "id": 24,
+    "title": "Wheel Clamp on Rental Car: Illegal Parking in Downtown",
+    "date": "June 17, 2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/rentacarBlocked.webp",
+    "excerpt": "Police placed a wheel clamp on a rental car in downtown Funchal after it was parked on the sidewalk. The case once again highlights frequent traffic violations among tourists...",
+    "content": [
+        "On the afternoon of June 17, police placed a wheel clamp on a rental car parked illegally on the sidewalk of Rua do Bom Jesus in downtown Funchal. The vehicle belonged to a rental fleet and was apparently used by a tourist.",
+        "Photos from the scene show the car completely occupying the pedestrian sidewalk, blocking foot traffic. Police responded quickly and took action against the violation.",
+        "Authorities regularly warn that tourists—especially those unfamiliar with local traffic rules—often commit similar infractions. Parking on sidewalks is strictly prohibited in Madeira and can result in fines as well as temporary immobilization of the vehicle.",
+        "Police urge visitors to carefully read traffic signs and follow parking regulations, particularly in the narrow streets of the historic downtown where pedestrian traffic is especially important.",
+        "The article was originally reported in the Madeira press."
+    ]
+    },
+    {
+    "id": 23,
+    "title": "Second Tragedy in Two Months at Pico do Areeiro",
+    "date": "June 15, 2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/fatalFallAreeiro2.webp",
+    "excerpt": "The fatal accident on June 15 was already the second within two months in the Pico do Areeiro area. Authorities urge extra caution when visiting mountain viewpoints and hiking trails...",
+    "content": [
+        "The tragic accident on June 15, in which a Czech tourist lost his life at the Miradouro do Juncal viewpoint, was not an isolated case: it was already the second fatality within two months in the Pico do Areeiro area.",
+        "The previous incident occurred on March 27, when a German tourist fell at the Ninho da Manta viewpoint while trying to take a selfie. The man fell into the abyss and died at the scene.",
+        "Both accidents share the characteristic that the viewpoints are located in rocky, steep, and difficult-to-access areas, where carelessness or ignoring safety rules can have fatal consequences.",
+        "More than twenty professionals took part in the rescue operations, including mountain rescuers, firefighters, and the civil protection helicopter unit. In the most recent case, psychological support was also provided to the relatives present at the site.",
+        "Authorities are investigating the exact circumstances of the accidents and reviewing safety measures at the viewpoints. The environmental police have also become involved to help prevent similar tragedies.",
+        "Following these events, regional authorities are once again urging visitors to exercise extreme caution on mountain trails and to stick to designated paths, especially near viewpoints.",
+        "The article was originally reported in the Madeira press."
+    ]
+    },
+    {
+    "id": 22,
+    "title": "Fatal Fall at Pico do Areeiro: Tourist Dies at Viewpoint",
+    "date": "June 15, 2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/fatalFallAreeiro.webp",
+    "excerpt": "A tragic accident occurred on Sunday morning at one of Pico do Areeiro’s viewpoints, where a male tourist in his 40s fell about 50 meters. Rescue teams found no signs of life upon arrival...",
+    "content": [
+        "On Sunday morning, June 15, a serious accident shook the Pico do Areeiro area, one of Madeira’s most visited mountain destinations. A male tourist in his 40s fell about 50 meters down a steep cliff at the Miradouro do Juncal viewpoint.",
+        "Following the alert, the Regional Civil Protection Service (SRPC) deployed a helicopter, while the Madeira Volunteer Firefighters’ Mountain Rescue Team and the Forestry Police also rushed to the site. Rescue units could only confirm the man’s death.",
+        "The rescue was carried out under particularly difficult conditions, as the accident site was located in rocky, dangerous terrain that was hard to access. Experienced mountain rescuers recovered the body.",
+        "Authorities are investigating the circumstances of the tragedy; it is not yet clear whether it was an accident, negligence, or a possible medical issue that led to the fall.",
+        "The incident deeply affected both tourists and locals present at the site. Pico do Areeiro has previously been the scene of similar accidents, which is why authorities are once again stressing the importance of following safety rules, especially near viewpoints and mountain trails.",
+        "The article was originally reported in the Madeira press."
+    ]
+    },
+    {
+    "id": 21,
+    "title": "Helicopter Rescues Tourist After 20-Meter Fall in Santo da Serra Mountains",
+    "date": "June 8, 2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/helirecue.webp",
+    "excerpt": "A 50-year-old female tourist was rescued by helicopter after falling about 20 meters on the difficult-to-access Vereda do Alvoredo trail in the Santo António da Serra area on Sunday afternoon...",
+    "content": [
+        "On Sunday afternoon, a 50-year-old female tourist suffered a serious accident on the Vereda do Alvoredo hiking trail in the Santo António da Serra area. The woman fell nearly 20 meters in a steep, hard-to-reach location.",
+        "The alert was received at 13:51, and due to the severity of the situation, the Regional Civil Protection Service (SRPC) deployed a helicopter rescue team, which included a specialized mountain rescuer and a rescue parachutist.",
+        "The ground rescue involved professional units from the Santa Cruz Fire Department as well as the Madeira Volunteer Firefighters’ Mountain Rescue Team, with a total of ten personnel.",
+        "After the successful rescue, the woman, who sustained multiple serious injuries, was transported by the Red Cross to Dr. Nélio Mendonça Hospital under the supervision of the EMIR rapid-response medical unit.",
+        "The complexity of the operation once again highlights the serious challenges posed by accidents in difficult terrain and the crucial role of a well-organized, rapid-response rescue infrastructure.",
+        "The article was originally reported in the Madeira press."
+    ]
+    },
+    {
+    "id": 20,
+    "title": "Vandalism at Ponta de São Lourenço: Hikers’ Rest Area Damaged",
+    "date": "June 8, 2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/vandalismSaoLourenco.webp",
+    "excerpt": "The environmental authority reported vandalism along the Ponta de São Lourenço trail, where a public rest area was damaged by unknown perpetrators. Several parts of one of Madeira’s most popular hiking routes suffered damage...",
+    "content": [
+        "A public rest area along the Ponta de São Lourenço nature trail on Madeira Island was vandalized by unknown individuals. The damage was detected last week by a patrol team of the environmental guard.",
+        "The perpetrators completely destroyed a stone bench and partially damaged another seating structure as well as the adjacent retaining wall. These facilities serve both locals and tourists along the popular hiking route.",
+        "Manuel Filipe, president of the Institute of Forests and Nature Conservation (IFCN), condemned the incident, stressing that it was a serious attack on community values designed to ensure enjoyment of nature for residents and visitors. He stated: “Such behavior has no place in a civilized society that respects shared spaces.”",
+        "The IFCN is cooperating with the police responsible for public safety and has already initiated administrative proceedings against the unknown offenders. The investigation to identify those responsible is ongoing.",
+        "Filipe urged the community that anyone witnessing similar acts should immediately notify the authorities, as protecting the natural environment is a shared responsibility.",
+        "The institute reaffirmed its commitment to safeguarding Madeira’s natural heritage and promised to take all necessary steps to restore the damaged area and prevent similar incidents.",
+        "The article was originally reported in the Madeira press."
+    ]
+    },
+    {
+    "id": 19,
+    "title": "Fire Breaks Out in Machico After Fireworks – Flames Quickly Contained",
+    "date": "June 7, 2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/fireMachico2.webp",
+    "excerpt": "Shortly after Friday night’s fireworks, a brush fire broke out near the Hotel Dom Pedro in Machico. Thanks to the firefighters’ quick intervention, the blaze was extinguished within a short time, with no injuries or major damage...",
+    "content": [
+        "On Friday night, a small fire occurred on the hillside next to Hotel Dom Pedro in Machico, shortly after the fireworks display held as part of the Atlantic Festival and the Quinhentista Market.",
+        "The alert was received around 11:30 p.m., and four professional firefighters from Machico arrived at the scene with a heavy-duty vehicle. Their intervention was quick and effective, preventing the fire from spreading further.",
+        "The flames were fully extinguished in about 45 minutes, and fortunately, no injuries or significant property damage occurred.",
+        "Based on information from the scene, it appears that the brush fire may have been caused by the preceding pyrotechnic show, which was part of the festival program.",
+        "In response to the incident, authorities announced that safety protocols for future fireworks displays will be reviewed.",
+        "The article was originally reported in the Madeira press."
+    ]
+    },
+    {
+    "id": 18,
+    "title": "Serious Bicycle Accident: Spanish Tourist Hospitalized in Madeira",
+    "date": "June 5, 2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/bycicleAccident.webp",
+    "excerpt": "A 54-year-old Spanish tourist suffered a cycling accident in the Ribeira das Cales area and was admitted to the emergency department of Dr. Nélio Mendonça Hospital with serious injuries...",
+    "content": [
+        "A middle-aged Spanish man sustained serious injuries after suffering a cycling accident in the Ribeira das Cales area, one of Madeira’s popular hiking destinations. He was riding a mountain bike on difficult terrain when the accident occurred.",
+        "Units from the Madeira Volunteer Firefighters (BVM) quickly arrived at the scene, carried out the rescue, and provided first aid. According to paramedics, the man suffered multiple serious injuries and was urgently transported to hospital.",
+        "At Dr. Nélio Mendonça Hospital’s emergency department, doctors diagnosed a fractured collarbone and vertebrae. He is being monitored in the orthopedic ward.",
+        "The incident once again highlights the importance of proper equipment and caution when cycling on more extreme routes.",
+        "Local authorities advise all hikers and cyclists to always follow safety regulations and avoid solitary trips in hard-to-reach areas, especially under difficult terrain conditions.",
+        "The article was originally reported in the Madeira press."
+    ]
+    },
+    {
+    "id": 17,
+    "title": "Visitor Warned for Loud Music at Queimadas Nature Reserve",
+    "date": "June 5, 2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/queimadas.webp",
+    "excerpt": "At the Queimadas forest park in Santana, the environmental guard identified a person using sound equipment for music and singing, violating rules for protected areas...",
+    "content": [
+        "This week, at the Queimadas forest park, part of Madeira’s protected nature reserve, the environmental police identified a man who was using sound equipment to play music and sing. The site is a specially protected natural area where strict rules apply to visitor behavior.",
+        "The Institute of Forests and Nature Conservation (IFCN) emphasized that any activity involving noise or disturbing the tranquility of nature can only be carried out with prior authorization.",
+        "This regulation serves to protect the animals and plants living in the park and ensures that visitors can enjoy the closeness of nature without disturbance.",
+        "Manuel Filipe, president of the IFCN, stressed that respecting the order of protected areas is a shared responsibility. He stated: “The forest is our common value, which everyone is obliged to respect. Irresponsible behavior can have serious consequences for the environment and people’s safety.”",
+        "Filipe added that the institution has strengthened on-site inspections and launched awareness campaigns, urging the community to jointly preserve Madeira’s natural treasures."
+    ]
+    },
+    {
+    "id": 16,
+    "title": "Safety Measures in Santa Cruz: Road Closure and Rockfall Risk",
+    "date": "June 4, 2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/rockfall1.webp",
+    "excerpt": "A busy section of Avenida 25 de Junho in Santa Cruz was temporarily closed after a basalt block shifted...",
+    "content": [
+        "A busy section of Avenida 25 de Junho in Santa Cruz was temporarily closed after a basalt block shifted, causing a rockfall. The municipality immediately took action, closing the road between Rua do Ribeirinho and Rua do Tribunal so that experts could examine the area.",
+        "The closure aims to allow a safety inspection to assess the condition of the infrastructure and recommend further measures. The municipality emphasized that the decision was made with public safety in mind and apologized for any inconvenience. Authorities designated alternative routes to minimize traffic disruptions.",
+        "The region is considered geologically unstable, with previous minor landslides and rockfalls having occurred. The municipality has already carried out safety checks and introduced several protective measures in recent years. Weather conditions such as rainfall and erosion can contribute to rockfall risks.",
+        "Experts are currently assessing whether stabilization work is necessary and how long the closure will remain in effect. Due to the terrain, additional retaining walls and reinforced structures may be built to reduce the risk of similar incidents.",
+        "The Santa Cruz municipality assured residents that all necessary steps will be taken and that they will be kept informed about the reopening of the road."
+    ]
+    },
+    {
+    "id": 15,
+    "title": "Number of Traffic Accidents Significantly Increased in Madeira",
+    "date": "June 3, 2025",
+    "image": "https://raw.githubusercontent.com/TiborRadnai/news-json/main/images/accidents1.webp",
+    "excerpt": "According to data published by the Madeira Regional Directorate of Statistics (DREM), 922 traffic accidents occurred in the first three months of the year...",
+    "content": [
+        "According to data published by the Madeira Regional Directorate of Statistics (DREM), 922 traffic accidents occurred in the first three months of the year, in which the Polícia de Segurança Pública (PSP) intervened. This represents a 9.8% increase compared to the same period last year.",
+        "As a result of the accidents, 294 people were injured, which is 46 more than in the first quarter of 2024. Of the injured, 274 suffered minor injuries, 17 were seriously injured, and 3 people lost their lives.",
+        "The report suggests that the increase in traffic accidents may be related to higher traffic intensity as well as weather conditions. Authorities continue to investigate the causes of the accidents and are paying increased attention to road safety measures."
+    ]
+    }
+ ]   
+}
